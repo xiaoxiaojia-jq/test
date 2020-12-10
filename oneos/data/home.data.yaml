@@ -1,0 +1,54 @@
+"test_home_product_menu":
+  # name, result
+  - ["互联互通", "互联互通"]
+  - ["端云融合", "端云融合"]
+  - ["室内外定位","室内外定位"]
+  - ["高级语言","高级语言"]
+  - ["远程升级组件","远程升级组件"]
+  - ["低功耗控制组件","低功耗控制组件"]
+"test_home_product_details":
+  # name, result
+  - ["互联互通", "产品介绍"]
+  - ["端云融合", "产品介绍"]
+  - ["室内外定位","产品介绍"]
+  - ["高级语言","产品介绍"]
+  - ["远程升级组件","产品介绍"]
+  - ["低功耗控制组件","产品介绍"]
+"test_home_product_jump":
+  # name,XPATH, result
+  - ["端云融合",'//*[@id="__layout"]/div/div[2]/div[3]/div[2]/div[1]/span', "产品介绍"]
+  - ["互联互通",'//*[@id="__layout"]/div/div[2]/div[3]/div[2]/div[2]/span', "产品介绍"]
+  - ["室内外定位",'//*[@id="__layout"]/div/div[2]/div[3]/div[2]/div[3]/span', "产品介绍"]
+"test_home_solve_menu":
+  # name, result
+  - ["智能穿戴", "智能穿戴"]
+  - ["智能门锁", "智能门锁"]
+  - ["智慧表计","智慧表计"]
+  - ["智慧充电","智慧充电"]
+  - ["环境监测","环境监测"]
+"test_home_solve_details":
+  # name, result
+  - ["智能穿戴", "方案诉求"]
+  - ["智能门锁", "方案诉求"]
+  - ["智慧表计","方案诉求"]
+  - ["智慧充电","方案诉求"]
+  - ["环境监测","方案诉求"]
+"test_home_solve_jump":
+  # XPATH, result
+  - ['//*[@id="__layout"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[1]', "方案诉求"]
+  - ['//*[@id="__layout"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[2]', "方案诉求"]
+  - ['//*[@id="__layout"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[3]', "方案诉求"]
+  - ['//*[@id="__layout"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[4]', "方案诉求"]
+  - ['//*[@id="__layout"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[5]', "方案诉求"]
+"test_home_big_title":
+  #xpath, result
+  - ['//*[@id="__layout"]/div/div[2]/div[2]/div[1]', "轻松安全可靠接入各类物联网设备平台"]
+  - ['//*[@id="__layout"]/div/div[2]/div[3]/div[1]', "丰富能力满足应用级开发需求"]
+  - ['//*[@id="__layout"]/div/div[2]/div[4]/div[1]', "这里有你想要的操作系统解决方案"]
+  - ['//*[@id="__layout"]/div/div[2]/div[5]/div[1]', "共同打造开放共赢的物联网生态"]
+"test_home_bottom_information":
+  #name,xpath, result
+  - ["开发者交流QQ群",'//*[@id="__layout"]/div/div[3]/div/div[1]/div[3]/div[2]/div[1]', "158631242"]
+  - ["电话",'//*[@id="__layout"]/div/div[3]/div/div[1]/div[3]/div[2]/div[2]', "400-1100-866"]
+  - ["邮箱",'//*[@id="__layout"]/div/div[3]/div/div[1]/div[3]/div[2]/div[3]', "cmcc_oneos@cmiot.chinamobile.com.cn"]
+  - ["地址",'//*[@id="__layout"]/div/div[3]/div/div[1]/div[3]/div[2]/div[4]', "四川省成都市天府三街腾讯大厦B幢7楼"]

@@ -1,0 +1,644 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testcase.case",
+    "children" : [ {
+      "name" : "test_consumer",
+      "children" : [ {
+        "name" : "test_consumer_jump",
+        "uid" : "4eb10e12a5432943",
+        "parentUid" : "cfa2467d9f82ac57fecfb95890cd0901",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607495708064,
+          "stop" : 1607495723778,
+          "duration" : 15714
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cfa2467d9f82ac57fecfb95890cd0901"
+    }, {
+      "name" : "test_developer",
+      "children" : [ {
+        "name" : "检查oneos下载页面",
+        "uid" : "4ca6ba288942fb93",
+        "parentUid" : "cc5906b18904cee933fe88ce8ae2a5fd",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607495723890,
+          "stop" : 1607495737046,
+          "duration" : 13156
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "检查开发文档页面",
+        "uid" : "3f6201e0f2ba97ff",
+        "parentUid" : "cc5906b18904cee933fe88ce8ae2a5fd",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607495737101,
+          "stop" : 1607495752243,
+          "duration" : 15142
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cc5906b18904cee933fe88ce8ae2a5fd"
+    }, {
+      "name" : "test_home",
+      "children" : [ {
+        "name" : "检查导航栏产品功能",
+        "uid" : "c6f3dc5d1586f82c",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607495752298,
+          "stop" : 1607495752696,
+          "duration" : 398
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "检查产品功能菜单",
+        "uid" : "276e6855c7753d01",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607495752754,
+          "stop" : 1607495768085,
+          "duration" : 15331
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'互联互通'", "'互联互通'" ]
+      }, {
+        "name" : "检查产品功能菜单",
+        "uid" : "d5984ec0258c4671",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607495768144,
+          "stop" : 1607495781864,
+          "duration" : 13720
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'端云融合'", "'端云融合'" ]
+      }, {
+        "name" : "检查产品功能菜单",
+        "uid" : "a072b43a3511521d",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607495781913,
+          "stop" : 1607495795310,
+          "duration" : 13397
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'室内外定位'", "'室内外定位'" ]
+      }, {
+        "name" : "检查产品功能菜单",
+        "uid" : "fe5b9865c8410ef2",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607495795376,
+          "stop" : 1607495808632,
+          "duration" : 13256
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'高级语言'", "'高级语言'" ]
+      }, {
+        "name" : "检查产品功能菜单",
+        "uid" : "a0d2e386d72767fe",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607495808676,
+          "stop" : 1607495821421,
+          "duration" : 12745
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'远程升级组件'", "'远程升级组件'" ]
+      }, {
+        "name" : "检查产品功能菜单",
+        "uid" : "442f2364519672a",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607495821472,
+          "stop" : 1607495835487,
+          "duration" : 14015
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'低功耗控制组件'", "'低功耗控制组件'" ]
+      }, {
+        "name" : "检查产品功能菜单详情",
+        "uid" : "594ee37bbd3d1c81",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607495835562,
+          "stop" : 1607495849909,
+          "duration" : 14347
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'互联互通'", "'产品介绍'" ]
+      }, {
+        "name" : "检查产品功能菜单详情",
+        "uid" : "6b637154dba8260e",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607495849978,
+          "stop" : 1607495863190,
+          "duration" : 13212
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'端云融合'", "'产品介绍'" ]
+      }, {
+        "name" : "检查产品功能菜单详情",
+        "uid" : "2be081e4df824cd1",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607495863235,
+          "stop" : 1607495876409,
+          "duration" : 13174
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'室内外定位'", "'产品介绍'" ]
+      }, {
+        "name" : "检查产品功能菜单详情",
+        "uid" : "b365d8f2d5b13e92",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607495876489,
+          "stop" : 1607495889900,
+          "duration" : 13411
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'高级语言'", "'产品介绍'" ]
+      }, {
+        "name" : "检查产品功能菜单详情",
+        "uid" : "fb01caf461dc8e32",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607495889965,
+          "stop" : 1607495905021,
+          "duration" : 15056
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'远程升级组件'", "'产品介绍'" ]
+      }, {
+        "name" : "检查产品功能菜单详情",
+        "uid" : "9626b72bb1c2574d",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607495905069,
+          "stop" : 1607495917415,
+          "duration" : 12346
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'低功耗控制组件'", "'产品介绍'" ]
+      }, {
+        "name" : "检查产品功能跳转",
+        "uid" : "987d7bbc4297fb9a",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607495917479,
+          "stop" : 1607495922369,
+          "duration" : 4890
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'端云融合'", "'产品介绍'", "'//*[@id=\"__layout\"]/div/div[2]/div[3]/div[2]/div[1]/span'" ]
+      }, {
+        "name" : "检查产品功能跳转",
+        "uid" : "376f769be6bd5610",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607495922464,
+          "stop" : 1607495924673,
+          "duration" : 2209
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'互联互通'", "'产品介绍'", "'//*[@id=\"__layout\"]/div/div[2]/div[3]/div[2]/div[2]/span'" ]
+      }, {
+        "name" : "检查产品功能跳转",
+        "uid" : "6346efb749c6cfac",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607495924715,
+          "stop" : 1607495926929,
+          "duration" : 2214
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'室内外定位'", "'产品介绍'", "'//*[@id=\"__layout\"]/div/div[2]/div[3]/div[2]/div[3]/span'" ]
+      }, {
+        "name" : "检查导航栏解决方案",
+        "uid" : "48b2cefd3812c5ac",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607495926972,
+          "stop" : 1607495928034,
+          "duration" : 1062
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "检查解决方案菜单",
+        "uid" : "d92b79ef63c2a2f4",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607495928047,
+          "stop" : 1607495941219,
+          "duration" : 13172
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'智能穿戴'", "'智能穿戴'" ]
+      }, {
+        "name" : "检查解决方案菜单",
+        "uid" : "d817abd51cdff5bd",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607495941263,
+          "stop" : 1607495953043,
+          "duration" : 11780
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'智能门锁'", "'智能门锁'" ]
+      }, {
+        "name" : "检查解决方案菜单",
+        "uid" : "cda805e3fc00b323",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607495953058,
+          "stop" : 1607495954299,
+          "duration" : 1241
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'智慧表计'", "'智慧表计'" ]
+      }, {
+        "name" : "检查解决方案菜单",
+        "uid" : "ad3f9c8e41b627b1",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607495954314,
+          "stop" : 1607495955660,
+          "duration" : 1346
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'智慧充电'", "'智慧充电'" ]
+      }, {
+        "name" : "检查解决方案菜单",
+        "uid" : "8228983aa78644e3",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607495955675,
+          "stop" : 1607495957030,
+          "duration" : 1355
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'环境监测'", "'环境监测'" ]
+      }, {
+        "name" : "检查解决方案菜单详情",
+        "uid" : "9ad1e4e7070384f1",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607495957045,
+          "stop" : 1607495970607,
+          "duration" : 13562
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'智能穿戴'", "'方案诉求'" ]
+      }, {
+        "name" : "检查解决方案菜单详情",
+        "uid" : "bd374fd88d464e7f",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607495970661,
+          "stop" : 1607495985335,
+          "duration" : 14674
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'智能门锁'", "'方案诉求'" ]
+      }, {
+        "name" : "检查解决方案菜单详情",
+        "uid" : "d521e06ecfd44543",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607495985402,
+          "stop" : 1607495999895,
+          "duration" : 14493
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'智慧表计'", "'方案诉求'" ]
+      }, {
+        "name" : "检查解决方案菜单详情",
+        "uid" : "4fc0c16a630f15ae",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607495999966,
+          "stop" : 1607496014007,
+          "duration" : 14041
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'智慧充电'", "'方案诉求'" ]
+      }, {
+        "name" : "检查解决方案菜单详情",
+        "uid" : "6d72726e6f0b532e",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496014055,
+          "stop" : 1607496028685,
+          "duration" : 14630
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'环境监测'", "'方案诉求'" ]
+      }, {
+        "name" : "test_solve_jump[//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[1]-方案诉求]",
+        "uid" : "ec0582f557045de7",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496028730,
+          "stop" : 1607496043986,
+          "duration" : 15256
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'方案诉求'", "'//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[1]'" ]
+      }, {
+        "name" : "test_solve_jump[//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[2]-方案诉求]",
+        "uid" : "e74dcef8c26df667",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496044064,
+          "stop" : 1607496047124,
+          "duration" : 3060
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'方案诉求'", "'//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[2]'" ]
+      }, {
+        "name" : "test_solve_jump[//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[3]-方案诉求]",
+        "uid" : "cb3903b96ce67534",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496047170,
+          "stop" : 1607496048998,
+          "duration" : 1828
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'方案诉求'", "'//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[3]'" ]
+      }, {
+        "name" : "test_solve_jump[//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[4]-方案诉求]",
+        "uid" : "668e8f7d19792ec0",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496049042,
+          "stop" : 1607496050844,
+          "duration" : 1802
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'方案诉求'", "'//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[4]'" ]
+      }, {
+        "name" : "test_solve_jump[//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[5]-方案诉求]",
+        "uid" : "c52fe683b1e1081",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496050892,
+          "stop" : 1607496052776,
+          "duration" : 1884
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'方案诉求'", "'//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[5]'" ]
+      }, {
+        "name" : "test_big_title[//*[@id=\"__layout\"]/div/div[2]/div[2]/div[1]-轻松安全可靠接入各类物联网设备平台]",
+        "uid" : "c2bcaee79f487a01",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496052834,
+          "stop" : 1607496053053,
+          "duration" : 219
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'轻松安全可靠接入各类物联网设备平台'", "'//*[@id=\"__layout\"]/div/div[2]/div[2]/div[1]'" ]
+      }, {
+        "name" : "test_big_title[//*[@id=\"__layout\"]/div/div[2]/div[3]/div[1]-丰富能力满足应用级开发需求]",
+        "uid" : "1d8cba738b232a72",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496053095,
+          "stop" : 1607496053308,
+          "duration" : 213
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'丰富能力满足应用级开发需求'", "'//*[@id=\"__layout\"]/div/div[2]/div[3]/div[1]'" ]
+      }, {
+        "name" : "test_big_title[//*[@id=\"__layout\"]/div/div[2]/div[4]/div[1]-这里有你想要的操作系统解决方案]",
+        "uid" : "f4bbb7b34d610863",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496053350,
+          "stop" : 1607496053571,
+          "duration" : 221
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'这里有你想要的操作系统解决方案'", "'//*[@id=\"__layout\"]/div/div[2]/div[4]/div[1]'" ]
+      }, {
+        "name" : "test_big_title[//*[@id=\"__layout\"]/div/div[2]/div[5]/div[1]-共同打造开放共赢的物联网生态]",
+        "uid" : "96aebe7ed55ccd49",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496053614,
+          "stop" : 1607496055120,
+          "duration" : 1506
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'共同打造开放共赢的物联网生态'", "'//*[@id=\"__layout\"]/div/div[2]/div[5]/div[1]'" ]
+      }, {
+        "name" : "test_bottom_information[开发者交流QQ群-//*[@id=\"__layout\"]/div/div[3]/div/div[1]/div[3]/div[2]/div[1]-158631242]",
+        "uid" : "100aa716590b7131",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496055135,
+          "stop" : 1607496055356,
+          "duration" : 221
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'开发者交流QQ群'", "'158631242'", "'//*[@id=\"__layout\"]/div/div[3]/div/div[1]/div[3]/div[2]/div[1]'" ]
+      }, {
+        "name" : "test_bottom_information[电话-//*[@id=\"__layout\"]/div/div[3]/div/div[1]/div[3]/div[2]/div[2]-400-1100-866]",
+        "uid" : "e28859bdc2a23d9a",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496055411,
+          "stop" : 1607496055681,
+          "duration" : 270
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'电话'", "'400-1100-866'", "'//*[@id=\"__layout\"]/div/div[3]/div/div[1]/div[3]/div[2]/div[2]'" ]
+      }, {
+        "name" : "test_bottom_information[邮箱-//*[@id=\"__layout\"]/div/div[3]/div/div[1]/div[3]/div[2]/div[3]-cmcc_oneos@cmiot.chinamobile.com.cn]",
+        "uid" : "8532e405a8bedeb",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496055724,
+          "stop" : 1607496055947,
+          "duration" : 223
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'邮箱'", "'cmcc_oneos@cmiot.chinamobile.com.cn'", "'//*[@id=\"__layout\"]/div/div[3]/div/div[1]/div[3]/div[2]/div[3]'" ]
+      }, {
+        "name" : "test_bottom_information[地址-//*[@id=\"__layout\"]/div/div[3]/div/div[1]/div[3]/div[2]/div[4]-四川省成都市天府三街腾讯大厦B幢7楼]",
+        "uid" : "e962bd58ebf26a4",
+        "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496056002,
+          "stop" : 1607496056212,
+          "duration" : 210
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'地址'", "'四川省成都市天府三街腾讯大厦B幢7楼'", "'//*[@id=\"__layout\"]/div/div[3]/div/div[1]/div[3]/div[2]/div[4]'" ]
+      } ],
+      "uid" : "184c3bcc46c019a58e8aa1d8e60c26f1"
+    }, {
+      "name" : "test_know",
+      "children" : [ {
+        "name" : "test_consumer_jump",
+        "uid" : "8d5f1388b7299a2",
+        "parentUid" : "4058bf826010474cc21a0a329164a110",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496056256,
+          "stop" : 1607496069517,
+          "duration" : 13261
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4058bf826010474cc21a0a329164a110"
+    }, {
+      "name" : "test_news",
+      "children" : [ {
+        "name" : "test_new_list",
+        "uid" : "cbaf469498357b91",
+        "parentUid" : "9cf8aade979a8632d6f5d8ef21ea32b3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496069567,
+          "stop" : 1607496082664,
+          "duration" : 13097
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_new_detials",
+        "uid" : "bc6091ea067fa3ae",
+        "parentUid" : "9cf8aade979a8632d6f5d8ef21ea32b3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496082703,
+          "stop" : 1607496095594,
+          "duration" : 12891
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9cf8aade979a8632d6f5d8ef21ea32b3"
+    }, {
+      "name" : "test_ota",
+      "children" : [ {
+        "name" : "test_ota",
+        "uid" : "fe7c69a15c8b7c53",
+        "parentUid" : "180ca3d2048bdf1390d2c580cc2e91d6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496095636,
+          "stop" : 1607496109132,
+          "duration" : 13496
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "180ca3d2048bdf1390d2c580cc2e91d6"
+    } ],
+    "uid" : "testcase.case"
+  } ]
+}

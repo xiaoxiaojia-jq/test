@@ -1,0 +1,133 @@
+{
+  "uid" : "a44c4c5802f126d9",
+  "name" : "检查产品功能跳转",
+  "fullName" : "testcase.case.test_home.Testhome_navigation#test_product_jump[室内外定位-//*[@id=\"__layout\"]/div/div[2]/div[3]/div[2]/div",
+  "historyId" : "0cb4d8a6a6c12b5460126b62f072650d",
+  "time" : {
+    "start" : 1607496452019,
+    "stop" : 1607496455496,
+    "duration" : 3477
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "检查室内外定位跳转详情页面",
+      "time" : {
+        "start" : 1607496452019,
+        "stop" : 1607496455496,
+        "duration" : 3477
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8238c25743a1aea8",
+        "name" : "室内外定位页面跳转",
+        "source" : "8238c25743a1aea8.png",
+        "type" : "image/png",
+        "size" : 49910
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "首页"
+  }, {
+    "name" : "story",
+    "value" : "产品功能跳转"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase.case"
+  }, {
+    "name" : "suite",
+    "value" : "test_home"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testhome_navigation"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-KS4SLMU"
+  }, {
+    "name" : "thread",
+    "value" : "21540-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.case.test_home"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "name",
+    "value" : "'室内外定位'"
+  }, {
+    "name" : "result",
+    "value" : "'产品介绍'"
+  }, {
+    "name" : "xpath",
+    "value" : "'//*[@id=\"__layout\"]/div/div[2]/div[3]/div[2]/div[3]/span'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "96b50d33396fb139",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.MoveTargetOutOfBoundsException: Message: (356, 1039) is out of bounds of viewport width (1536) and height (722)",
+        "time" : {
+          "start" : 1607495056681,
+          "stop" : 1607495058728,
+          "duration" : 2047
+        }
+      }, {
+        "uid" : "4596d287866945ed",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607493913036,
+          "stop" : 1607493918151,
+          "duration" : 5115
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "a44c4c5802f126d9.json",
+  "parameterValues" : [ "'室内外定位'", "'产品介绍'", "'//*[@id=\"__layout\"]/div/div[2]/div[3]/div[2]/div[3]/span'" ]
+}

@@ -1,0 +1,471 @@
+[ {
+  "uid" : "8228983aa78644e3",
+  "name" : "检查解决方案菜单",
+  "time" : {
+    "start" : 1607495955675,
+    "stop" : 1607495957030,
+    "duration" : 1355
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1d8cba738b232a72",
+  "name" : "test_big_title[//*[@id=\"__layout\"]/div/div[2]/div[3]/div[1]-丰富能力满足应用级开发需求]",
+  "time" : {
+    "start" : 1607496053095,
+    "stop" : 1607496053308,
+    "duration" : 213
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fb01caf461dc8e32",
+  "name" : "检查产品功能菜单详情",
+  "time" : {
+    "start" : 1607495889965,
+    "stop" : 1607495905021,
+    "duration" : 15056
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e962bd58ebf26a4",
+  "name" : "test_bottom_information[地址-//*[@id=\"__layout\"]/div/div[3]/div/div[1]/div[3]/div[2]/div[4]-四川省成都市天府三街腾讯大厦B幢7楼]",
+  "time" : {
+    "start" : 1607496056002,
+    "stop" : 1607496056212,
+    "duration" : 210
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6b637154dba8260e",
+  "name" : "检查产品功能菜单详情",
+  "time" : {
+    "start" : 1607495849978,
+    "stop" : 1607495863190,
+    "duration" : 13212
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d92b79ef63c2a2f4",
+  "name" : "检查解决方案菜单",
+  "time" : {
+    "start" : 1607495928047,
+    "stop" : 1607495941219,
+    "duration" : 13172
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cb3903b96ce67534",
+  "name" : "test_solve_jump[//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[3]-方案诉求]",
+  "time" : {
+    "start" : 1607496047170,
+    "stop" : 1607496048998,
+    "duration" : 1828
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6d72726e6f0b532e",
+  "name" : "检查解决方案菜单详情",
+  "time" : {
+    "start" : 1607496014055,
+    "stop" : 1607496028685,
+    "duration" : 14630
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cda805e3fc00b323",
+  "name" : "检查解决方案菜单",
+  "time" : {
+    "start" : 1607495953058,
+    "stop" : 1607495954299,
+    "duration" : 1241
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "987d7bbc4297fb9a",
+  "name" : "检查产品功能跳转",
+  "time" : {
+    "start" : 1607495917479,
+    "stop" : 1607495922369,
+    "duration" : 4890
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9ad1e4e7070384f1",
+  "name" : "检查解决方案菜单详情",
+  "time" : {
+    "start" : 1607495957045,
+    "stop" : 1607495970607,
+    "duration" : 13562
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "668e8f7d19792ec0",
+  "name" : "test_solve_jump[//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[4]-方案诉求]",
+  "time" : {
+    "start" : 1607496049042,
+    "stop" : 1607496050844,
+    "duration" : 1802
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e74dcef8c26df667",
+  "name" : "test_solve_jump[//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[2]-方案诉求]",
+  "time" : {
+    "start" : 1607496044064,
+    "stop" : 1607496047124,
+    "duration" : 3060
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "594ee37bbd3d1c81",
+  "name" : "检查产品功能菜单详情",
+  "time" : {
+    "start" : 1607495835562,
+    "stop" : 1607495849909,
+    "duration" : 14347
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "376f769be6bd5610",
+  "name" : "检查产品功能跳转",
+  "time" : {
+    "start" : 1607495922464,
+    "stop" : 1607495924673,
+    "duration" : 2209
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "276e6855c7753d01",
+  "name" : "检查产品功能菜单",
+  "time" : {
+    "start" : 1607495752754,
+    "stop" : 1607495768085,
+    "duration" : 15331
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fe7c69a15c8b7c53",
+  "name" : "test_ota",
+  "time" : {
+    "start" : 1607496095636,
+    "stop" : 1607496109132,
+    "duration" : 13496
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bd374fd88d464e7f",
+  "name" : "检查解决方案菜单详情",
+  "time" : {
+    "start" : 1607495970661,
+    "stop" : 1607495985335,
+    "duration" : 14674
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9626b72bb1c2574d",
+  "name" : "检查产品功能菜单详情",
+  "time" : {
+    "start" : 1607495905069,
+    "stop" : 1607495917415,
+    "duration" : 12346
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4fc0c16a630f15ae",
+  "name" : "检查解决方案菜单详情",
+  "time" : {
+    "start" : 1607495999966,
+    "stop" : 1607496014007,
+    "duration" : 14041
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "100aa716590b7131",
+  "name" : "test_bottom_information[开发者交流QQ群-//*[@id=\"__layout\"]/div/div[3]/div/div[1]/div[3]/div[2]/div[1]-158631242]",
+  "time" : {
+    "start" : 1607496055135,
+    "stop" : 1607496055356,
+    "duration" : 221
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8d5f1388b7299a2",
+  "name" : "test_consumer_jump",
+  "time" : {
+    "start" : 1607496056256,
+    "stop" : 1607496069517,
+    "duration" : 13261
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c52fe683b1e1081",
+  "name" : "test_solve_jump[//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[5]-方案诉求]",
+  "time" : {
+    "start" : 1607496050892,
+    "stop" : 1607496052776,
+    "duration" : 1884
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "48b2cefd3812c5ac",
+  "name" : "检查导航栏解决方案",
+  "time" : {
+    "start" : 1607495926972,
+    "stop" : 1607495928034,
+    "duration" : 1062
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b365d8f2d5b13e92",
+  "name" : "检查产品功能菜单详情",
+  "time" : {
+    "start" : 1607495876489,
+    "stop" : 1607495889900,
+    "duration" : 13411
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c6f3dc5d1586f82c",
+  "name" : "检查导航栏产品功能",
+  "time" : {
+    "start" : 1607495752298,
+    "stop" : 1607495752696,
+    "duration" : 398
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2be081e4df824cd1",
+  "name" : "检查产品功能菜单详情",
+  "time" : {
+    "start" : 1607495863235,
+    "stop" : 1607495876409,
+    "duration" : 13174
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a072b43a3511521d",
+  "name" : "检查产品功能菜单",
+  "time" : {
+    "start" : 1607495781913,
+    "stop" : 1607495795310,
+    "duration" : 13397
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fe5b9865c8410ef2",
+  "name" : "检查产品功能菜单",
+  "time" : {
+    "start" : 1607495795376,
+    "stop" : 1607495808632,
+    "duration" : 13256
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d5984ec0258c4671",
+  "name" : "检查产品功能菜单",
+  "time" : {
+    "start" : 1607495768144,
+    "stop" : 1607495781864,
+    "duration" : 13720
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "96aebe7ed55ccd49",
+  "name" : "test_big_title[//*[@id=\"__layout\"]/div/div[2]/div[5]/div[1]-共同打造开放共赢的物联网生态]",
+  "time" : {
+    "start" : 1607496053614,
+    "stop" : 1607496055120,
+    "duration" : 1506
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d817abd51cdff5bd",
+  "name" : "检查解决方案菜单",
+  "time" : {
+    "start" : 1607495941263,
+    "stop" : 1607495953043,
+    "duration" : 11780
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a0d2e386d72767fe",
+  "name" : "检查产品功能菜单",
+  "time" : {
+    "start" : 1607495808676,
+    "stop" : 1607495821421,
+    "duration" : 12745
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cbaf469498357b91",
+  "name" : "test_new_list",
+  "time" : {
+    "start" : 1607496069567,
+    "stop" : 1607496082664,
+    "duration" : 13097
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bc6091ea067fa3ae",
+  "name" : "test_new_detials",
+  "time" : {
+    "start" : 1607496082703,
+    "stop" : 1607496095594,
+    "duration" : 12891
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3f6201e0f2ba97ff",
+  "name" : "检查开发文档页面",
+  "time" : {
+    "start" : 1607495737101,
+    "stop" : 1607495752243,
+    "duration" : 15142
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c2bcaee79f487a01",
+  "name" : "test_big_title[//*[@id=\"__layout\"]/div/div[2]/div[2]/div[1]-轻松安全可靠接入各类物联网设备平台]",
+  "time" : {
+    "start" : 1607496052834,
+    "stop" : 1607496053053,
+    "duration" : 219
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ad3f9c8e41b627b1",
+  "name" : "检查解决方案菜单",
+  "time" : {
+    "start" : 1607495954314,
+    "stop" : 1607495955660,
+    "duration" : 1346
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ec0582f557045de7",
+  "name" : "test_solve_jump[//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[1]-方案诉求]",
+  "time" : {
+    "start" : 1607496028730,
+    "stop" : 1607496043986,
+    "duration" : 15256
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4eb10e12a5432943",
+  "name" : "test_consumer_jump",
+  "time" : {
+    "start" : 1607495708064,
+    "stop" : 1607495723778,
+    "duration" : 15714
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f4bbb7b34d610863",
+  "name" : "test_big_title[//*[@id=\"__layout\"]/div/div[2]/div[4]/div[1]-这里有你想要的操作系统解决方案]",
+  "time" : {
+    "start" : 1607496053350,
+    "stop" : 1607496053571,
+    "duration" : 221
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4ca6ba288942fb93",
+  "name" : "检查oneos下载页面",
+  "time" : {
+    "start" : 1607495723890,
+    "stop" : 1607495737046,
+    "duration" : 13156
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e28859bdc2a23d9a",
+  "name" : "test_bottom_information[电话-//*[@id=\"__layout\"]/div/div[3]/div/div[1]/div[3]/div[2]/div[2]-400-1100-866]",
+  "time" : {
+    "start" : 1607496055411,
+    "stop" : 1607496055681,
+    "duration" : 270
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d521e06ecfd44543",
+  "name" : "检查解决方案菜单详情",
+  "time" : {
+    "start" : 1607495985402,
+    "stop" : 1607495999895,
+    "duration" : 14493
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "442f2364519672a",
+  "name" : "检查产品功能菜单",
+  "time" : {
+    "start" : 1607495821472,
+    "stop" : 1607495835487,
+    "duration" : 14015
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8532e405a8bedeb",
+  "name" : "test_bottom_information[邮箱-//*[@id=\"__layout\"]/div/div[3]/div/div[1]/div[3]/div[2]/div[3]-cmcc_oneos@cmiot.chinamobile.com.cn]",
+  "time" : {
+    "start" : 1607496055724,
+    "stop" : 1607496055947,
+    "duration" : 223
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6346efb749c6cfac",
+  "name" : "检查产品功能跳转",
+  "time" : {
+    "start" : 1607495924715,
+    "stop" : 1607495926929,
+    "duration" : 2214
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,159 @@
+{
+  "uid" : "d06d63bc188e77e3",
+  "name" : "检查解决方案菜单",
+  "fullName" : "testcase.case.test_home.Testhome_navigation#test_solve_menu",
+  "historyId" : "f1b91367abc44027c4dd62230177ec4f",
+  "time" : {
+    "start" : 1607496458059,
+    "stop" : 1607496460784,
+    "duration" : 2725
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1607496377090,
+      "stop" : 1607496377090,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "检查环境监测文本",
+      "time" : {
+        "start" : 1607496460610,
+        "stop" : 1607496460784,
+        "duration" : 174
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "12452670d451cf3f",
+        "name" : "解决方案环境监测菜单名",
+        "source" : "12452670d451cf3f.png",
+        "type" : "image/png",
+        "size" : 97459
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1607496494953,
+      "stop" : 1607496494953,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "导航栏"
+  }, {
+    "name" : "feature",
+    "value" : "首页"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase.case"
+  }, {
+    "name" : "suite",
+    "value" : "test_home"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testhome_navigation"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-KS4SLMU"
+  }, {
+    "name" : "thread",
+    "value" : "21540-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.case.test_home"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "name_menu",
+    "value" : "'环境监测'"
+  }, {
+    "name" : "result_menu",
+    "value" : "'环境监测'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "8eb4d26a0bb1bd92",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607495061973,
+          "stop" : 1607495062698,
+          "duration" : 725
+        }
+      }, {
+        "uid" : "a27c26dd1effce18",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607493920850,
+          "stop" : 1607493921364,
+          "duration" : 514
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "d06d63bc188e77e3.json",
+  "parameterValues" : [ "'环境监测'", "'环境监测'" ]
+}

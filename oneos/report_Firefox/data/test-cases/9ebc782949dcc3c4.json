@@ -1,0 +1,153 @@
+{
+  "uid" : "9ebc782949dcc3c4",
+  "name" : "检查导航栏产品功能",
+  "fullName" : "testcase.case.test_home.Testhome_navigation#test_product_navigation",
+  "historyId" : "9ada5ae85c43a0abfefc030149480d70",
+  "time" : {
+    "start" : 1607496377091,
+    "stop" : 1607496377384,
+    "duration" : 293
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1607496377090,
+      "stop" : 1607496377090,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "检查导航栏产品功能文本",
+      "time" : {
+        "start" : 1607496377091,
+        "stop" : 1607496377384,
+        "duration" : 293
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "387f98ef1fb530cd",
+        "name" : "检查产品功能导航栏",
+        "source" : "387f98ef1fb530cd.png",
+        "type" : "image/png",
+        "size" : 1248314
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1607496494953,
+      "stop" : 1607496494953,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "导航栏"
+  }, {
+    "name" : "feature",
+    "value" : "首页"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase.case"
+  }, {
+    "name" : "suite",
+    "value" : "test_home"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testhome_navigation"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-KS4SLMU"
+  }, {
+    "name" : "thread",
+    "value" : "21540-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.case.test_home"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "3aa3fe457a894a2d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607495018179,
+          "stop" : 1607495018477,
+          "duration" : 298
+        }
+      }, {
+        "uid" : "55de424937805ab3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607493886261,
+          "stop" : 1607493887253,
+          "duration" : 992
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "9ebc782949dcc3c4.json",
+  "parameterValues" : [ ]
+}

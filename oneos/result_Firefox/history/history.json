@@ -1,0 +1,1285 @@
+{
+  "fa5c4a15fe8ea122e9b8efeba06ab85c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "d3f34ea6dba76d1c",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.MoveTargetOutOfBoundsException: Message: (356, 1039) is out of bounds of viewport width (1536) and height (722)",
+      "time" : {
+        "start" : 1607495054598,
+        "stop" : 1607495056622,
+        "duration" : 2024
+      }
+    }, {
+      "uid" : "8e184a9217d76241",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493907931,
+        "stop" : 1607493913029,
+        "duration" : 5098
+      }
+    } ]
+  },
+  "ac3575959e3064d9c471aecb2dd0f783" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "5d12d294d0adbba2",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.MoveTargetOutOfBoundsException: Message: (759, 988) is out of bounds of viewport width (1536) and height (722)",
+      "time" : {
+        "start" : 1607495115095,
+        "stop" : 1607495115105,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "d33ee0082bd59eb5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493953270,
+        "stop" : 1607493954221,
+        "duration" : 951
+      }
+    } ]
+  },
+  "5e04336aa0de9ddba80f124a0b28b9b0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "7f99bb08c5139dbb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495049303,
+        "stop" : 1607495052484,
+        "duration" : 3181
+      }
+    }, {
+      "uid" : "e2dbd4843ebe2e63",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493901274,
+        "stop" : 1607493903097,
+        "duration" : 1823
+      }
+    } ]
+  },
+  "741463445ec6307ee781e8f311e5bcd2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "c530f2660887496b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495020775,
+        "stop" : 1607495021315,
+        "duration" : 540
+      }
+    }, {
+      "uid" : "9b5836e89220fd1d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493890794,
+        "stop" : 1607493891607,
+        "duration" : 813
+      }
+    } ]
+  },
+  "0cb4d8a6a6c12b5460126b62f072650d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "96b50d33396fb139",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.MoveTargetOutOfBoundsException: Message: (356, 1039) is out of bounds of viewport width (1536) and height (722)",
+      "time" : {
+        "start" : 1607495056681,
+        "stop" : 1607495058728,
+        "duration" : 2047
+      }
+    }, {
+      "uid" : "4596d287866945ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493913036,
+        "stop" : 1607493918151,
+        "duration" : 5115
+      }
+    } ]
+  },
+  "ad8eeb44534ae976c88c641a53e22233" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "2d70e2251957361c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495044395,
+        "stop" : 1607495047251,
+        "duration" : 2856
+      }
+    }, {
+      "uid" : "de209b6be1257d5d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493897797,
+        "stop" : 1607493899576,
+        "duration" : 1779
+      }
+    } ]
+  },
+  "419aa7e8a4287c96af50b73e947dd2ad" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "c497af666b7f3f5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495019043,
+        "stop" : 1607495019645,
+        "duration" : 602
+      }
+    }, {
+      "uid" : "e59f917d8bbb17d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493888278,
+        "stop" : 1607493889108,
+        "duration" : 830
+      }
+    } ]
+  },
+  "f1b91367abc44027c4dd62230177ec4f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "8eb4d26a0bb1bd92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495061973,
+        "stop" : 1607495062698,
+        "duration" : 725
+      }
+    }, {
+      "uid" : "a27c26dd1effce18",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493920850,
+        "stop" : 1607493921364,
+        "duration" : 514
+      }
+    } ]
+  },
+  "446d7bb681c5e285aeca45695fec0181" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "9f757e1b41859b37",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.MoveTargetOutOfBoundsException: Message: (767, 1854) is out of bounds of viewport width (1536) and height (722)",
+      "time" : {
+        "start" : 1607495115436,
+        "stop" : 1607495115446,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "ca08e3db22250392",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493958484,
+        "stop" : 1607493959016,
+        "duration" : 532
+      }
+    } ]
+  },
+  "ddf266546437b9690e6e92fc65a867e7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "a2bffa43f8bbb763",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495116981,
+        "stop" : 1607495117385,
+        "duration" : 404
+      }
+    }, {
+      "uid" : "a206ef3dd329da8e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493961924,
+        "stop" : 1607493962567,
+        "duration" : 643
+      }
+    } ]
+  },
+  "5ff1ae473f9b1957ef4adacbd72d54bf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "4161002c75c8a690",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495019650,
+        "stop" : 1607495020208,
+        "duration" : 558
+      }
+    }, {
+      "uid" : "decdc1759e053775",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493889113,
+        "stop" : 1607493889966,
+        "duration" : 853
+      }
+    } ]
+  },
+  "38532f4318b20da397218927038058c2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "d567c45ac49fa8b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495060575,
+        "stop" : 1607495061164,
+        "duration" : 589
+      }
+    }, {
+      "uid" : "3bc8e7f72eb8152f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493919798,
+        "stop" : 1607493920310,
+        "duration" : 512
+      }
+    } ]
+  },
+  "daf82b28308822691f14ae6f0499106c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "c3279f204862d4b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495105821,
+        "stop" : 1607495109762,
+        "duration" : 3941
+      }
+    }, {
+      "uid" : "136a8b6f0028d5ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493943735,
+        "stop" : 1607493947749,
+        "duration" : 4014
+      }
+    } ]
+  },
+  "c4cf68fdba6edd74110b8f0ae92cb93a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "837475b135fc6ed6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495061170,
+        "stop" : 1607495061962,
+        "duration" : 792
+      }
+    }, {
+      "uid" : "4372e1007ea1f3c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493920314,
+        "stop" : 1607493920845,
+        "duration" : 531
+      }
+    } ]
+  },
+  "7d7318227754e78e56ffcff01c4e3344" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "fe8097070781c13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495117388,
+        "stop" : 1607495117850,
+        "duration" : 462
+      }
+    }, {
+      "uid" : "9924af6026efcf48",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493962570,
+        "stop" : 1607493963260,
+        "duration" : 690
+      }
+    } ]
+  },
+  "878df4b78b5e9dfac7153c69aca89194" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "f8ca5c5e3fb85106",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495093441,
+        "stop" : 1607495097345,
+        "duration" : 3904
+      }
+    }, {
+      "uid" : "2fdde013ef238560",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493930377,
+        "stop" : 1607493934630,
+        "duration" : 4253
+      }
+    } ]
+  },
+  "72be5060e9f011ec5cf5f8b0fa4b9413" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "47dab105c11c24ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495117855,
+        "stop" : 1607495119299,
+        "duration" : 1444
+      }
+    }, {
+      "uid" : "10516c0a8549fa72",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493963264,
+        "stop" : 1607493965944,
+        "duration" : 2680
+      }
+    } ]
+  },
+  "22042957fb85722f53a94ae04f5e81d2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "2fec4dfddb78b837",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.MoveTargetOutOfBoundsException: Message: (767, 1839) is out of bounds of viewport width (1536) and height (722)",
+      "time" : {
+        "start" : 1607495115379,
+        "stop" : 1607495115391,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "7931cbda3e155d21",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493957897,
+        "stop" : 1607493958479,
+        "duration" : 582
+      }
+    } ]
+  },
+  "ac86e20e34eb11e12a3a995fd37e8852" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "89539e40948dc726",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495113986,
+        "stop" : 1607495115091,
+        "duration" : 1105
+      }
+    }, {
+      "uid" : "58fc64dbebf6f60",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493952106,
+        "stop" : 1607493953266,
+        "duration" : 1160
+      }
+    } ]
+  },
+  "933d21bf8c9cfae4ac6ef20f33666e3e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "95dadf47002f0e23",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495101580,
+        "stop" : 1607495105815,
+        "duration" : 4235
+      }
+    }, {
+      "uid" : "baece0affc2eac02",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493939097,
+        "stop" : 1607493943725,
+        "duration" : 4628
+      }
+    } ]
+  },
+  "fd7c00fcffe6808591587971e95e55fc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "33c71dcc2c4f9e13",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.MoveTargetOutOfBoundsException: Message: (767, 1824) is out of bounds of viewport width (1536) and height (722)",
+      "time" : {
+        "start" : 1607495115317,
+        "stop" : 1607495115328,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "5f3d81a56c23e610",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493957232,
+        "stop" : 1607493957891,
+        "duration" : 659
+      }
+    } ]
+  },
+  "802f5620338c5df1bc6ee3b729ca501c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "15a11b92991a1199",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495058814,
+        "stop" : 1607495059384,
+        "duration" : 570
+      }
+    }, {
+      "uid" : "63a68b19f8ec412",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493918158,
+        "stop" : 1607493918716,
+        "duration" : 558
+      }
+    } ]
+  },
+  "bb3a152f771407648a46026f2644e50c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "e0a9d87d010a0bce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495021320,
+        "stop" : 1607495021896,
+        "duration" : 576
+      }
+    }, {
+      "uid" : "3439cc54f31b0457",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493891611,
+        "stop" : 1607493892441,
+        "duration" : 830
+      }
+    } ]
+  },
+  "7e1520beac142b2fd62d4bf134306de0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "3677cd67b4cb733d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495059977,
+        "stop" : 1607495060570,
+        "duration" : 593
+      }
+    }, {
+      "uid" : "44fe47bfeed43493",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493919284,
+        "stop" : 1607493919794,
+        "duration" : 510
+      }
+    } ]
+  },
+  "5f27f685cbca072ba27fd274fbeff0a2" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "ede967d35fcaef53",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.MoveTargetOutOfBoundsException: Message: (759, 1319) is out of bounds of viewport width (1536) and height (722)",
+      "time" : {
+        "start" : 1607495115146,
+        "stop" : 1607495115154,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "1e636f267bd2085c",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '这里有你想要的操作系统解决方案11' == '这里有你想要的操作系统解决方案'\n  - 这里有你想要的操作系统解决方案\n  + 这里有你想要的操作系统解决方案11\n  ?                ++",
+      "time" : {
+        "start" : 1607493954226,
+        "stop" : 1607493954827,
+        "duration" : 601
+      }
+    } ]
+  },
+  "01d41056b45f241956f653ec885a73a6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "4fdc8414665f3ece",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: 智慧表计",
+      "time" : {
+        "start" : 1607495077056,
+        "stop" : 1607495089478,
+        "duration" : 12422
+      }
+    }, {
+      "uid" : "557206c8e35cf60f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493925131,
+        "stop" : 1607493926890,
+        "duration" : 1759
+      }
+    } ]
+  },
+  "feda16bbf8cec133c47c503995e38892" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "efc94cde80a47ebc",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.MoveTargetOutOfBoundsException: Message: (356, 1039) is out of bounds of viewport width (1536) and height (722)",
+      "time" : {
+        "start" : 1607495052495,
+        "stop" : 1607495054554,
+        "duration" : 2059
+      }
+    }, {
+      "uid" : "a5432e681b2c38d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493903102,
+        "stop" : 1607493907921,
+        "duration" : 4819
+      }
+    } ]
+  },
+  "f2765be0dd75e2572acff8784f6ac982" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "672135888d546882",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.MoveTargetOutOfBoundsException: Message: (759, 1641) is out of bounds of viewport width (1536) and height (722)",
+      "time" : {
+        "start" : 1607495115208,
+        "stop" : 1607495115217,
+        "duration" : 9
+      }
+    }, {
+      "uid" : "5c6978343d14792c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493954906,
+        "stop" : 1607493956502,
+        "duration" : 1596
+      }
+    } ]
+  },
+  "8b22f0cce334f68144d3ea1f87d6451e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "4e74ccfeb171b7f8",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: 智能门锁",
+      "time" : {
+        "start" : 1607495064693,
+        "stop" : 1607495076996,
+        "duration" : 12303
+      }
+    }, {
+      "uid" : "8e456150cf5b58a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493923238,
+        "stop" : 1607493925120,
+        "duration" : 1882
+      }
+    } ]
+  },
+  "b0725f112469e57c41648a0f4ef66002" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "b4978b39a5850683",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495089541,
+        "stop" : 1607495091504,
+        "duration" : 1963
+      }
+    }, {
+      "uid" : "9e7d5052dee11a53",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493926896,
+        "stop" : 1607493928646,
+        "duration" : 1750
+      }
+    } ]
+  },
+  "2257a1c8bb41b26e74bc706fa9e421e0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "d8d6898fce09f425",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495097364,
+        "stop" : 1607495101576,
+        "duration" : 4212
+      }
+    }, {
+      "uid" : "6c2dab37857377cd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493934645,
+        "stop" : 1607493939088,
+        "duration" : 4443
+      }
+    } ]
+  },
+  "4f16e5cf81273f438727273e9643468b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "3f092ab093982b68",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495091513,
+        "stop" : 1607495093435,
+        "duration" : 1922
+      }
+    }, {
+      "uid" : "4d73451a058a1387",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493928652,
+        "stop" : 1607493930372,
+        "duration" : 1720
+      }
+    } ]
+  },
+  "3071e97320da4a86b1ed021f7f612044" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "df4aacee5feb1c23",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495020214,
+        "stop" : 1607495020770,
+        "duration" : 556
+      }
+    }, {
+      "uid" : "5da409da0e7f4dff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493889971,
+        "stop" : 1607493890789,
+        "duration" : 818
+      }
+    } ]
+  },
+  "5ea1a6f0cf1e18e7c995a21d554f35ec" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "95b6e9e8314f1bd6",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.MoveTargetOutOfBoundsException: Message: (767, 1809) is out of bounds of viewport width (1536) and height (722)",
+      "time" : {
+        "start" : 1607495115262,
+        "stop" : 1607495115271,
+        "duration" : 9
+      }
+    }, {
+      "uid" : "f8a04867d08c56f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493956507,
+        "stop" : 1607493957227,
+        "duration" : 720
+      }
+    } ]
+  },
+  "e378c3d0fd48633927155ede6ce31650" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "bbe18696277b3523",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495062703,
+        "stop" : 1607495064688,
+        "duration" : 1985
+      }
+    }, {
+      "uid" : "8291ff44e1f4b776",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493921368,
+        "stop" : 1607493923223,
+        "duration" : 1855
+      }
+    } ]
+  },
+  "5cf195488796774449587216c43e025f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "3025319db70bb4f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495059387,
+        "stop" : 1607495059972,
+        "duration" : 585
+      }
+    }, {
+      "uid" : "ca5a6f1b5819de1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493918719,
+        "stop" : 1607493919280,
+        "duration" : 561
+      }
+    } ]
+  },
+  "89ecca11748589813012a4d414a302ae" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "85714f91e628e077",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495016307,
+        "stop" : 1607495017425,
+        "duration" : 1118
+      }
+    }, {
+      "uid" : "7890373a03da3099",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493880905,
+        "stop" : 1607493883606,
+        "duration" : 2701
+      }
+    } ]
+  },
+  "5158496d6be8962e65dde75b8a2ed1b6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "f988f61278ee0a9d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495015340,
+        "stop" : 1607495016298,
+        "duration" : 958
+      }
+    }, {
+      "uid" : "91a5dbddebe8484e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493878306,
+        "stop" : 1607493880896,
+        "duration" : 2590
+      }
+    } ]
+  },
+  "495cd5a47eb3b03f3bb923e01dd2a75d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "59768632b4c6865b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495017430,
+        "stop" : 1607495018174,
+        "duration" : 744
+      }
+    }, {
+      "uid" : "51f3eefc8aaadf62",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493883611,
+        "stop" : 1607493886251,
+        "duration" : 2640
+      }
+    } ]
+  },
+  "54027c6aa2b9acb383a0e87788295604" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "fed41b0d6639317f",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: 端云融合",
+      "time" : {
+        "start" : 1607495023875,
+        "stop" : 1607495036248,
+        "duration" : 12373
+      }
+    }, {
+      "uid" : "20b8e7731d6ad2ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493894208,
+        "stop" : 1607493896053,
+        "duration" : 1845
+      }
+    } ]
+  },
+  "3ee562c16c1bce06dfb9b08734bf11ef" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "9dd6e0e40d047b11",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495036479,
+        "stop" : 1607495044390,
+        "duration" : 7911
+      }
+    }, {
+      "uid" : "8dac7237120e6092",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493896059,
+        "stop" : 1607493897785,
+        "duration" : 1726
+      }
+    } ]
+  },
+  "a3d1408761f9af488c67213a24d88751" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "85ef8acf2423545c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495018481,
+        "stop" : 1607495019038,
+        "duration" : 557
+      }
+    }, {
+      "uid" : "4dda5bc90da08c9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493887256,
+        "stop" : 1607493888273,
+        "duration" : 1017
+      }
+    } ]
+  },
+  "bbc13705e6940ddbc13b6ef973586e36" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "95264de418c67aae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495021902,
+        "stop" : 1607495023870,
+        "duration" : 1968
+      }
+    }, {
+      "uid" : "989151e07884c051",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493892452,
+        "stop" : 1607493894203,
+        "duration" : 1751
+      }
+    } ]
+  },
+  "9ada5ae85c43a0abfefc030149480d70" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "3aa3fe457a894a2d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495018179,
+        "stop" : 1607495018477,
+        "duration" : 298
+      }
+    }, {
+      "uid" : "55de424937805ab3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493886261,
+        "stop" : 1607493887253,
+        "duration" : 992
+      }
+    } ]
+  },
+  "a9d74a1c2978e75c512a93725f4f6885" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "36c2e15c97dc3366",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495109768,
+        "stop" : 1607495113981,
+        "duration" : 4213
+      }
+    }, {
+      "uid" : "e9c60f1eb7246ef7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493947761,
+        "stop" : 1607493952096,
+        "duration" : 4335
+      }
+    } ]
+  },
+  "2e59e5fdcb575cedbc2439b3ef2f26fb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "4f0dfb1ef4bd8ad8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495047268,
+        "stop" : 1607495049283,
+        "duration" : 2015
+      }
+    }, {
+      "uid" : "c9bec8144f027dc3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493899588,
+        "stop" : 1607493901262,
+        "duration" : 1674
+      }
+    } ]
+  },
+  "7cb653718df2fa6bec0ad081ca2f10e6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "80040514248d9cb6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607495115490,
+        "stop" : 1607495116974,
+        "duration" : 1484
+      }
+    }, {
+      "uid" : "1d50091c3bdad698",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607493959023,
+        "stop" : 1607493961920,
+        "duration" : 2897
+      }
+    } ]
+  }
+}

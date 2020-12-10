@@ -1,0 +1,942 @@
+{
+  "fa5c4a15fe8ea122e9b8efeba06ab85c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "376f769be6bd5610",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.MoveTargetOutOfBoundsException: Message: The requested mouse movement to (546, -295) would be outside the bounds of the current view port (left: 0, right: 1536, top: 110, bottom: 824)",
+      "time" : {
+        "start" : 1607495922464,
+        "stop" : 1607495924673,
+        "duration" : 2209
+      }
+    } ]
+  },
+  "5e04336aa0de9ddba80f124a0b28b9b0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9626b72bb1c2574d",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with link text == 低功耗控制组件",
+      "time" : {
+        "start" : 1607495905069,
+        "stop" : 1607495917415,
+        "duration" : 12346
+      }
+    } ]
+  },
+  "ac3575959e3064d9c471aecb2dd0f783" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1d8cba738b232a72",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.MoveTargetOutOfBoundsException: Message: The requested mouse movement to (949, -734) would be outside the bounds of the current view port (left: 0, right: 1536, top: 110, bottom: 824)",
+      "time" : {
+        "start" : 1607496053095,
+        "stop" : 1607496053308,
+        "duration" : 213
+      }
+    } ]
+  },
+  "741463445ec6307ee781e8f311e5bcd2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a0d2e386d72767fe",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with link text == 远程升级组件",
+      "time" : {
+        "start" : 1607495808676,
+        "stop" : 1607495821421,
+        "duration" : 12745
+      }
+    } ]
+  },
+  "ad8eeb44534ae976c88c641a53e22233" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b365d8f2d5b13e92",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with link text == 高级语言",
+      "time" : {
+        "start" : 1607495876489,
+        "stop" : 1607495889900,
+        "duration" : 13411
+      }
+    } ]
+  },
+  "0cb4d8a6a6c12b5460126b62f072650d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6346efb749c6cfac",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.MoveTargetOutOfBoundsException: Message: The requested mouse movement to (546, -295) would be outside the bounds of the current view port (left: 0, right: 1536, top: 110, bottom: 824)",
+      "time" : {
+        "start" : 1607495924715,
+        "stop" : 1607495926929,
+        "duration" : 2214
+      }
+    } ]
+  },
+  "419aa7e8a4287c96af50b73e947dd2ad" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d5984ec0258c4671",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with link text == 端云融合",
+      "time" : {
+        "start" : 1607495768144,
+        "stop" : 1607495781864,
+        "duration" : 13720
+      }
+    } ]
+  },
+  "f1b91367abc44027c4dd62230177ec4f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8228983aa78644e3",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: './result_Ie/png/解决方案环境监测菜单名2020-12-09-14-39-16.png'",
+      "time" : {
+        "start" : 1607495955675,
+        "stop" : 1607495957030,
+        "duration" : 1355
+      }
+    } ]
+  },
+  "ddf266546437b9690e6e92fc65a867e7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cbaf469498357b91",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with xpath == //*[@id=\"__layout\"]/div/div[2]/div/div[1]/div[1]/a/span",
+      "time" : {
+        "start" : 1607496069567,
+        "stop" : 1607496082664,
+        "duration" : 13097
+      }
+    } ]
+  },
+  "446d7bb681c5e285aeca45695fec0181" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e962bd58ebf26a4",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.MoveTargetOutOfBoundsException: Message: The requested mouse movement to (957, 982) would be outside the bounds of the current view port (left: 0, right: 1536, top: 110, bottom: 824)",
+      "time" : {
+        "start" : 1607496056002,
+        "stop" : 1607496056212,
+        "duration" : 210
+      }
+    } ]
+  },
+  "5ff1ae473f9b1957ef4adacbd72d54bf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a072b43a3511521d",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with link text == 室内外定位",
+      "time" : {
+        "start" : 1607495781913,
+        "stop" : 1607495795310,
+        "duration" : 13397
+      }
+    } ]
+  },
+  "daf82b28308822691f14ae6f0499106c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "668e8f7d19792ec0",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.ElementClickInterceptedException: Message: Element not clickable at point (1149,30). Other element would receive the click:  (elementsFromPoint index -1)",
+      "time" : {
+        "start" : 1607496049042,
+        "stop" : 1607496050844,
+        "duration" : 1802
+      }
+    } ]
+  },
+  "38532f4318b20da397218927038058c2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cda805e3fc00b323",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: './result_Ie/png/解决方案智慧表计菜单名2020-12-09-14-39-14.png'",
+      "time" : {
+        "start" : 1607495953058,
+        "stop" : 1607495954299,
+        "duration" : 1241
+      }
+    } ]
+  },
+  "c4cf68fdba6edd74110b8f0ae92cb93a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ad3f9c8e41b627b1",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: './result_Ie/png/解决方案智慧充电菜单名2020-12-09-14-39-15.png'",
+      "time" : {
+        "start" : 1607495954314,
+        "stop" : 1607495955660,
+        "duration" : 1346
+      }
+    } ]
+  },
+  "7d7318227754e78e56ffcff01c4e3344" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bc6091ea067fa3ae",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with xpath == //*[@id=\"__layout\"]/div/div[2]/div/div[1]/div[3]/p",
+      "time" : {
+        "start" : 1607496082703,
+        "stop" : 1607496095594,
+        "duration" : 12891
+      }
+    } ]
+  },
+  "878df4b78b5e9dfac7153c69aca89194" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ec0582f557045de7",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with xpath == //*[@id=\"__layout\"]/div/div[2]/div[3]/div[1]/div[2]",
+      "time" : {
+        "start" : 1607496028730,
+        "stop" : 1607496043986,
+        "duration" : 15256
+      }
+    } ]
+  },
+  "72be5060e9f011ec5cf5f8b0fa4b9413" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fe7c69a15c8b7c53",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with link text == OTA云平台",
+      "time" : {
+        "start" : 1607496095636,
+        "stop" : 1607496109132,
+        "duration" : 13496
+      }
+    } ]
+  },
+  "22042957fb85722f53a94ae04f5e81d2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8532e405a8bedeb",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.MoveTargetOutOfBoundsException: Message: The requested mouse movement to (957, 952) would be outside the bounds of the current view port (left: 0, right: 1536, top: 110, bottom: 824)",
+      "time" : {
+        "start" : 1607496055724,
+        "stop" : 1607496055947,
+        "duration" : 223
+      }
+    } ]
+  },
+  "ac86e20e34eb11e12a3a995fd37e8852" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c2bcaee79f487a01",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.MoveTargetOutOfBoundsException: Message: The requested mouse movement to (949, -1387) would be outside the bounds of the current view port (left: 0, right: 1536, top: 110, bottom: 824)",
+      "time" : {
+        "start" : 1607496052834,
+        "stop" : 1607496053053,
+        "duration" : 219
+      }
+    } ]
+  },
+  "933d21bf8c9cfae4ac6ef20f33666e3e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cb3903b96ce67534",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.ElementClickInterceptedException: Message: Element not clickable at point (949,30). Other element would receive the click:  (elementsFromPoint index -1)",
+      "time" : {
+        "start" : 1607496047170,
+        "stop" : 1607496048998,
+        "duration" : 1828
+      }
+    } ]
+  },
+  "fd7c00fcffe6808591587971e95e55fc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e28859bdc2a23d9a",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.MoveTargetOutOfBoundsException: Message: The requested mouse movement to (957, 922) would be outside the bounds of the current view port (left: 0, right: 1536, top: 110, bottom: 824)",
+      "time" : {
+        "start" : 1607496055411,
+        "stop" : 1607496055681,
+        "duration" : 270
+      }
+    } ]
+  },
+  "5f27f685cbca072ba27fd274fbeff0a2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f4bbb7b34d610863",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.MoveTargetOutOfBoundsException: Message: The requested mouse movement to (949, -77) would be outside the bounds of the current view port (left: 0, right: 1536, top: 110, bottom: 824)",
+      "time" : {
+        "start" : 1607496053350,
+        "stop" : 1607496053571,
+        "duration" : 221
+      }
+    } ]
+  },
+  "bb3a152f771407648a46026f2644e50c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "442f2364519672a",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with link text == 低功耗控制组件",
+      "time" : {
+        "start" : 1607495821472,
+        "stop" : 1607495835487,
+        "duration" : 14015
+      }
+    } ]
+  },
+  "802f5620338c5df1bc6ee3b729ca501c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "48b2cefd3812c5ac",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: './result_Ie/png/解决方案文本2020-12-09-14-38-47.png'",
+      "time" : {
+        "start" : 1607495926972,
+        "stop" : 1607495928034,
+        "duration" : 1062
+      }
+    } ]
+  },
+  "7e1520beac142b2fd62d4bf134306de0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d817abd51cdff5bd",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: './result_Ie/png/解决方案智能门锁菜单名2020-12-09-14-39-12.png'",
+      "time" : {
+        "start" : 1607495941263,
+        "stop" : 1607495953043,
+        "duration" : 11780
+      }
+    } ]
+  },
+  "01d41056b45f241956f653ec885a73a6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d521e06ecfd44543",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with link text == 智慧表计",
+      "time" : {
+        "start" : 1607495985402,
+        "stop" : 1607495999895,
+        "duration" : 14493
+      }
+    } ]
+  },
+  "f2765be0dd75e2572acff8784f6ac982" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "96aebe7ed55ccd49",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: './result_Ie/png/大标题检查2020-12-09-14-40-54.png'",
+      "time" : {
+        "start" : 1607496053614,
+        "stop" : 1607496055120,
+        "duration" : 1506
+      }
+    } ]
+  },
+  "feda16bbf8cec133c47c503995e38892" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "987d7bbc4297fb9a",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.ElementClickInterceptedException: Message: Element not clickable at point (317,20). Other element would receive the click:  (elementsFromPoint index -1)",
+      "time" : {
+        "start" : 1607495917479,
+        "stop" : 1607495922369,
+        "duration" : 4890
+      }
+    } ]
+  },
+  "b0725f112469e57c41648a0f4ef66002" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4fc0c16a630f15ae",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with link text == 智慧充电",
+      "time" : {
+        "start" : 1607495999966,
+        "stop" : 1607496014007,
+        "duration" : 14041
+      }
+    } ]
+  },
+  "8b22f0cce334f68144d3ea1f87d6451e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bd374fd88d464e7f",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with link text == 智能门锁",
+      "time" : {
+        "start" : 1607495970661,
+        "stop" : 1607495985335,
+        "duration" : 14674
+      }
+    } ]
+  },
+  "2257a1c8bb41b26e74bc706fa9e421e0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e74dcef8c26df667",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.ElementClickInterceptedException: Message: Element not clickable at point (318,549). Other element would receive the click:  (elementsFromPoint index -1)",
+      "time" : {
+        "start" : 1607496044064,
+        "stop" : 1607496047124,
+        "duration" : 3060
+      }
+    } ]
+  },
+  "4f16e5cf81273f438727273e9643468b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6d72726e6f0b532e",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with link text == 环境监测",
+      "time" : {
+        "start" : 1607496014055,
+        "stop" : 1607496028685,
+        "duration" : 14630
+      }
+    } ]
+  },
+  "3071e97320da4a86b1ed021f7f612044" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fe5b9865c8410ef2",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with link text == 高级语言",
+      "time" : {
+        "start" : 1607495795376,
+        "stop" : 1607495808632,
+        "duration" : 13256
+      }
+    } ]
+  },
+  "5ea1a6f0cf1e18e7c995a21d554f35ec" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "100aa716590b7131",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.MoveTargetOutOfBoundsException: Message: The requested mouse movement to (957, 892) would be outside the bounds of the current view port (left: 0, right: 1536, top: 110, bottom: 824)",
+      "time" : {
+        "start" : 1607496055135,
+        "stop" : 1607496055356,
+        "duration" : 221
+      }
+    } ]
+  },
+  "e378c3d0fd48633927155ede6ce31650" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9ad1e4e7070384f1",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with xpath == //*[@id=\"__layout\"]/div/div[2]/div[3]/div[1]/div[2]",
+      "time" : {
+        "start" : 1607495957045,
+        "stop" : 1607495970607,
+        "duration" : 13562
+      }
+    } ]
+  },
+  "5cf195488796774449587216c43e025f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d92b79ef63c2a2f4",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with link text == 智能穿戴",
+      "time" : {
+        "start" : 1607495928047,
+        "stop" : 1607495941219,
+        "duration" : 13172
+      }
+    } ]
+  },
+  "89ecca11748589813012a4d414a302ae" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4ca6ba288942fb93",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with link text == OneOS下载",
+      "time" : {
+        "start" : 1607495723890,
+        "stop" : 1607495737046,
+        "duration" : 13156
+      }
+    } ]
+  },
+  "5158496d6be8962e65dde75b8a2ed1b6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4eb10e12a5432943",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with xpath == //*[@id=\"__layout\"]/div/div[2]/div/div[1]/div/div[1]/div/div[2]/div[1]/div[1]/ul/li[1]",
+      "time" : {
+        "start" : 1607495708064,
+        "stop" : 1607495723778,
+        "duration" : 15714
+      }
+    } ]
+  },
+  "495cd5a47eb3b03f3bb923e01dd2a75d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3f6201e0f2ba97ff",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with xpath == //*[@id=\"book-search-results\"]/div[1]/div/p[1]",
+      "time" : {
+        "start" : 1607495737101,
+        "stop" : 1607495752243,
+        "duration" : 15142
+      }
+    } ]
+  },
+  "54027c6aa2b9acb383a0e87788295604" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6b637154dba8260e",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with link text == 端云融合",
+      "time" : {
+        "start" : 1607495849978,
+        "stop" : 1607495863190,
+        "duration" : 13212
+      }
+    } ]
+  },
+  "3ee562c16c1bce06dfb9b08734bf11ef" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2be081e4df824cd1",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with link text == 室内外定位",
+      "time" : {
+        "start" : 1607495863235,
+        "stop" : 1607495876409,
+        "duration" : 13174
+      }
+    } ]
+  },
+  "a3d1408761f9af488c67213a24d88751" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "276e6855c7753d01",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with link text == 互联互通",
+      "time" : {
+        "start" : 1607495752754,
+        "stop" : 1607495768085,
+        "duration" : 15331
+      }
+    } ]
+  },
+  "bbc13705e6940ddbc13b6ef973586e36" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "594ee37bbd3d1c81",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with link text == 互联互通",
+      "time" : {
+        "start" : 1607495835562,
+        "stop" : 1607495849909,
+        "duration" : 14347
+      }
+    } ]
+  },
+  "9ada5ae85c43a0abfefc030149480d70" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c6f3dc5d1586f82c",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: './result_Ie/png/检查产品功能导航栏2020-12-09-14-35-52.png'",
+      "time" : {
+        "start" : 1607495752298,
+        "stop" : 1607495752696,
+        "duration" : 398
+      }
+    } ]
+  },
+  "a9d74a1c2978e75c512a93725f4f6885" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c52fe683b1e1081",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.ElementClickInterceptedException: Message: Element not clickable at point (1349,30). Other element would receive the click:  (elementsFromPoint index -1)",
+      "time" : {
+        "start" : 1607496050892,
+        "stop" : 1607496052776,
+        "duration" : 1884
+      }
+    } ]
+  },
+  "2e59e5fdcb575cedbc2439b3ef2f26fb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fb01caf461dc8e32",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with link text == 远程升级组件",
+      "time" : {
+        "start" : 1607495889965,
+        "stop" : 1607495905021,
+        "duration" : 15056
+      }
+    } ]
+  },
+  "7cb653718df2fa6bec0ad081ca2f10e6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8d5f1388b7299a2",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with xpath == //*[@id=\"__layout\"]/div/div[2]/div[3]/div[1]/div[2]",
+      "time" : {
+        "start" : 1607496056256,
+        "stop" : 1607496069517,
+        "duration" : 13261
+      }
+    } ]
+  }
+}

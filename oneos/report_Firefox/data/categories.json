@@ -1,0 +1,213 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: 端云融合",
+      "children" : [ {
+        "name" : "检查产品功能菜单详情",
+        "uid" : "c3eab0f1cb9019c",
+        "parentUid" : "6fb097a5b2814cecf75978beec4f7ccf",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496382788,
+          "stop" : 1607496395160,
+          "duration" : 12372
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'端云融合'", "'产品介绍'" ]
+      } ],
+      "uid" : "6fb097a5b2814cecf75978beec4f7ccf"
+    }, {
+      "name" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: 室内外定位",
+      "children" : [ {
+        "name" : "检查产品功能菜单详情",
+        "uid" : "cf7d179dd052473",
+        "parentUid" : "4eedfc41c217ede3efe3b4022b0e673b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496395285,
+          "stop" : 1607496407610,
+          "duration" : 12325
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'室内外定位'", "'产品介绍'" ]
+      } ],
+      "uid" : "4eedfc41c217ede3efe3b4022b0e673b"
+    }, {
+      "name" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: 高级语言",
+      "children" : [ {
+        "name" : "检查产品功能菜单详情",
+        "uid" : "3426e4714288b88b",
+        "parentUid" : "63a3076eb91d0b86af30758204b64ed3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496407662,
+          "stop" : 1607496419941,
+          "duration" : 12279
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'高级语言'", "'产品介绍'" ]
+      } ],
+      "uid" : "63a3076eb91d0b86af30758204b64ed3"
+    }, {
+      "name" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: 远程升级组件",
+      "children" : [ {
+        "name" : "检查产品功能菜单详情",
+        "uid" : "bba84c4ae2545567",
+        "parentUid" : "62027a20f2d67e6cff097cd4363d7e92",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496419986,
+          "stop" : 1607496432357,
+          "duration" : 12371
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'远程升级组件'", "'产品介绍'" ]
+      } ],
+      "uid" : "62027a20f2d67e6cff097cd4363d7e92"
+    }, {
+      "name" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: 低功耗控制组件",
+      "children" : [ {
+        "name" : "检查产品功能菜单详情",
+        "uid" : "243d1718854d9efb",
+        "parentUid" : "7cc015a0c73afdf717bac957382add49",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496432418,
+          "stop" : 1607496444779,
+          "duration" : 12361
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'低功耗控制组件'", "'产品介绍'" ]
+      } ],
+      "uid" : "7cc015a0c73afdf717bac957382add49"
+    }, {
+      "name" : "selenium.common.exceptions.MoveTargetOutOfBoundsException: Message: (759, 988) is out of bounds of viewport width (1536) and height (722)",
+      "children" : [ {
+        "name" : "test_big_title[//*[@id=\"__layout\"]/div/div[2]/div[3]/div[1]-丰富能力满足应用级开发需求]",
+        "uid" : "cb7af817c2e7dab",
+        "parentUid" : "d3c7fc59cea418b4af062f58916a967b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496494530,
+          "stop" : 1607496494538,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'丰富能力满足应用级开发需求'", "'//*[@id=\"__layout\"]/div/div[2]/div[3]/div[1]'" ]
+      } ],
+      "uid" : "d3c7fc59cea418b4af062f58916a967b"
+    }, {
+      "name" : "selenium.common.exceptions.MoveTargetOutOfBoundsException: Message: (759, 1319) is out of bounds of viewport width (1536) and height (722)",
+      "children" : [ {
+        "name" : "test_big_title[//*[@id=\"__layout\"]/div/div[2]/div[4]/div[1]-这里有你想要的操作系统解决方案]",
+        "uid" : "d084696fde68b46f",
+        "parentUid" : "95f58f5d71c78ec569ca1ab9bd337e67",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496494608,
+          "stop" : 1607496494616,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'这里有你想要的操作系统解决方案'", "'//*[@id=\"__layout\"]/div/div[2]/div[4]/div[1]'" ]
+      } ],
+      "uid" : "95f58f5d71c78ec569ca1ab9bd337e67"
+    }, {
+      "name" : "selenium.common.exceptions.MoveTargetOutOfBoundsException: Message: (759, 1641) is out of bounds of viewport width (1536) and height (722)",
+      "children" : [ {
+        "name" : "test_big_title[//*[@id=\"__layout\"]/div/div[2]/div[5]/div[1]-共同打造开放共赢的物联网生态]",
+        "uid" : "6f7ed0e448124539",
+        "parentUid" : "e3883d34b02a1dd80c5d38029000132a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496494658,
+          "stop" : 1607496494668,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'共同打造开放共赢的物联网生态'", "'//*[@id=\"__layout\"]/div/div[2]/div[5]/div[1]'" ]
+      } ],
+      "uid" : "e3883d34b02a1dd80c5d38029000132a"
+    }, {
+      "name" : "selenium.common.exceptions.MoveTargetOutOfBoundsException: Message: (767, 1809) is out of bounds of viewport width (1536) and height (722)",
+      "children" : [ {
+        "name" : "test_bottom_information[开发者交流QQ群-//*[@id=\"__layout\"]/div/div[3]/div/div[1]/div[3]/div[2]/div[1]-158631242]",
+        "uid" : "cc58dab1ea138be6",
+        "parentUid" : "959fe5f6dd7236ac47bd0cba15f0fa88",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496494723,
+          "stop" : 1607496494735,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'开发者交流QQ群'", "'158631242'", "'//*[@id=\"__layout\"]/div/div[3]/div/div[1]/div[3]/div[2]/div[1]'" ]
+      } ],
+      "uid" : "959fe5f6dd7236ac47bd0cba15f0fa88"
+    }, {
+      "name" : "selenium.common.exceptions.MoveTargetOutOfBoundsException: Message: (767, 1824) is out of bounds of viewport width (1536) and height (722)",
+      "children" : [ {
+        "name" : "test_bottom_information[电话-//*[@id=\"__layout\"]/div/div[3]/div/div[1]/div[3]/div[2]/div[2]-400-1100-866]",
+        "uid" : "e1138d72dee08a53",
+        "parentUid" : "ed5913a4f24c47828d91a73ab4ef8fe6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496494797,
+          "stop" : 1607496494805,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'电话'", "'400-1100-866'", "'//*[@id=\"__layout\"]/div/div[3]/div/div[1]/div[3]/div[2]/div[2]'" ]
+      } ],
+      "uid" : "ed5913a4f24c47828d91a73ab4ef8fe6"
+    }, {
+      "name" : "selenium.common.exceptions.MoveTargetOutOfBoundsException: Message: (767, 1839) is out of bounds of viewport width (1536) and height (722)",
+      "children" : [ {
+        "name" : "test_bottom_information[邮箱-//*[@id=\"__layout\"]/div/div[3]/div/div[1]/div[3]/div[2]/div[3]-cmcc_oneos@cmiot.chinamobile.com.cn]",
+        "uid" : "8d2ed31b58557abc",
+        "parentUid" : "9eda5b88f4f2f0d230d1c7df39973d2e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496494848,
+          "stop" : 1607496494859,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'邮箱'", "'cmcc_oneos@cmiot.chinamobile.com.cn'", "'//*[@id=\"__layout\"]/div/div[3]/div/div[1]/div[3]/div[2]/div[3]'" ]
+      } ],
+      "uid" : "9eda5b88f4f2f0d230d1c7df39973d2e"
+    }, {
+      "name" : "selenium.common.exceptions.MoveTargetOutOfBoundsException: Message: (767, 1854) is out of bounds of viewport width (1536) and height (722)",
+      "children" : [ {
+        "name" : "test_bottom_information[地址-//*[@id=\"__layout\"]/div/div[3]/div/div[1]/div[3]/div[2]/div[4]-四川省成都市天府三街腾讯大厦B幢7楼]",
+        "uid" : "ed30324b095c358a",
+        "parentUid" : "0527da95f7177611fe23ac2a1b01c3a9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607496494903,
+          "stop" : 1607496494912,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'地址'", "'四川省成都市天府三街腾讯大厦B幢7楼'", "'//*[@id=\"__layout\"]/div/div[3]/div/div[1]/div[3]/div[2]/div[4]'" ]
+      } ],
+      "uid" : "0527da95f7177611fe23ac2a1b01c3a9"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

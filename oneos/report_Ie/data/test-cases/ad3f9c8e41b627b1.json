@@ -1,0 +1,136 @@
+{
+  "uid" : "ad3f9c8e41b627b1",
+  "name" : "检查解决方案菜单",
+  "fullName" : "testcase.case.test_home.Testhome_navigation#test_solve_menu",
+  "historyId" : "c4cf68fdba6edd74110b8f0ae92cb93a",
+  "time" : {
+    "start" : 1607495954314,
+    "stop" : 1607495955660,
+    "duration" : 1346
+  },
+  "status" : "broken",
+  "statusMessage" : "FileNotFoundError: [Errno 2] No such file or directory: './result_Ie/png/解决方案智慧充电菜单名2020-12-09-14-39-15.png'",
+  "statusTrace" : "self = <oneos.testcase.case.test_home.Testhome_navigation object at 0x0000014745511780>\nname_menu = '智慧充电', result_menu = '智慧充电'\n\n    @allure.story(\"导航栏\")\n    @allure.title(\"检查解决方案菜单\")\n    @allure.severity(\"normal\")\n    @pytest.mark.parametrize(\"name_menu,result_menu\", data[\"test_home_solve_menu\"])\n    def test_solve_menu(self,name_menu,result_menu):\n        solve_text= self.home_page.check_solve_menu(name_menu)\n        with allure.step(\"检查\"+name_menu+\"文本\"):\n            assert solve_text == result_menu\n>           Util(web).save_screenshot(web,'解决方案'+name_menu+'菜单名')\n\ntestcase\\case\\test_home.py:78: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <oneos.util.util.Util object at 0x0000014745511A90>, web = 'Ie'\nimg_doc = '解决方案智慧充电菜单名'\n\n    def save_screenshot(self, web,img_doc):\n        \"\"\"\n        页面截屏保存截图\n        :param img_doc: 截图说明\n        :return:\n        \"\"\"\n        file_name = './result_'+web+'/png/' + img_doc + time.strftime(\"%Y-%m-%d-%H-%M-%S\") + \".png\"\n        self.dr.save_screenshot(file_name)\n>       with open(file_name, mode='rb') as f:\nE       FileNotFoundError: [Errno 2] No such file or directory: './result_Ie/png/解决方案智慧充电菜单名2020-12-09-14-39-15.png'\n\nutil\\util.py:147: FileNotFoundError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1607495752298,
+      "stop" : 1607495752298,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "FileNotFoundError: [Errno 2] No such file or directory: './result_Ie/png/解决方案智慧充电菜单名2020-12-09-14-39-15.png'",
+    "statusTrace" : "self = <oneos.testcase.case.test_home.Testhome_navigation object at 0x0000014745511780>\nname_menu = '智慧充电', result_menu = '智慧充电'\n\n    @allure.story(\"导航栏\")\n    @allure.title(\"检查解决方案菜单\")\n    @allure.severity(\"normal\")\n    @pytest.mark.parametrize(\"name_menu,result_menu\", data[\"test_home_solve_menu\"])\n    def test_solve_menu(self,name_menu,result_menu):\n        solve_text= self.home_page.check_solve_menu(name_menu)\n        with allure.step(\"检查\"+name_menu+\"文本\"):\n            assert solve_text == result_menu\n>           Util(web).save_screenshot(web,'解决方案'+name_menu+'菜单名')\n\ntestcase\\case\\test_home.py:78: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <oneos.util.util.Util object at 0x0000014745511A90>, web = 'Ie'\nimg_doc = '解决方案智慧充电菜单名'\n\n    def save_screenshot(self, web,img_doc):\n        \"\"\"\n        页面截屏保存截图\n        :param img_doc: 截图说明\n        :return:\n        \"\"\"\n        file_name = './result_'+web+'/png/' + img_doc + time.strftime(\"%Y-%m-%d-%H-%M-%S\") + \".png\"\n        self.dr.save_screenshot(file_name)\n>       with open(file_name, mode='rb') as f:\nE       FileNotFoundError: [Errno 2] No such file or directory: './result_Ie/png/解决方案智慧充电菜单名2020-12-09-14-39-15.png'\n\nutil\\util.py:147: FileNotFoundError",
+    "steps" : [ {
+      "name" : "检查智慧充电文本",
+      "time" : {
+        "start" : 1607495955522,
+        "stop" : 1607495955659,
+        "duration" : 137
+      },
+      "status" : "broken",
+      "statusMessage" : "FileNotFoundError: [Errno 2] No such file or directory: './result_Ie/png/解决方案智慧充电菜单名2020-12-09-14-39-15.png'\n",
+      "statusTrace" : "  File \"J:\\workspace\\pycharm\\oneos\\testcase\\case\\test_home.py\", line 78, in test_solve_menu\n    Util(web).save_screenshot(web,'解决方案'+name_menu+'菜单名')\n  File \"J:\\workspace\\pycharm\\oneos\\util\\util.py\", line 147, in save_screenshot\n    with open(file_name, mode='rb') as f:\n",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1607496056252,
+      "stop" : 1607496056252,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "导航栏"
+  }, {
+    "name" : "feature",
+    "value" : "首页"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase.case"
+  }, {
+    "name" : "suite",
+    "value" : "test_home"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testhome_navigation"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-KS4SLMU"
+  }, {
+    "name" : "thread",
+    "value" : "19596-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.case.test_home"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "name_menu",
+    "value" : "'智慧充电'"
+  }, {
+    "name" : "result_menu",
+    "value" : "'智慧充电'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "ad3f9c8e41b627b1.json",
+  "parameterValues" : [ "'智慧充电'", "'智慧充电'" ]
+}
