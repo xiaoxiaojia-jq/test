@@ -1,0 +1,202 @@
+{
+  "uid" : "5446f1c4b3281349",
+  "name" : "检查导航栏产品功能",
+  "fullName" : "testcase.case.test_home.Testhome_navigation#test_product_navigation",
+  "historyId" : "9ada5ae85c43a0abfefc030149480d70",
+  "time" : {
+    "start" : 1608279698420,
+    "stop" : 1608279699391,
+    "duration" : 971
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1608279698419,
+      "stop" : 1608279698419,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "检查导航栏产品功能文本",
+      "time" : {
+        "start" : 1608279698420,
+        "stop" : 1608279699390,
+        "duration" : 970
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d8c3e7658c0300b0",
+        "name" : "检查产品功能导航栏",
+        "source" : "d8c3e7658c0300b0.png",
+        "type" : "image/png",
+        "size" : 1050844
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1608279769273,
+      "stop" : 1608279769273,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "首页"
+  }, {
+    "name" : "story",
+    "value" : "导航栏"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase.case"
+  }, {
+    "name" : "suite",
+    "value" : "test_home"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testhome_navigation"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-KS4SLMU"
+  }, {
+    "name" : "thread",
+    "value" : "2340-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.case.test_home"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 8,
+        "unknown" : 0,
+        "total" : 9
+      },
+      "items" : [ {
+        "uid" : "2c0337d64acbda7b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608277345424,
+          "stop" : 1608277346503,
+          "duration" : 1079
+        }
+      }, {
+        "uid" : "300e9efa4248bfb1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607588795289,
+          "stop" : 1607588796394,
+          "duration" : 1105
+        }
+      }, {
+        "uid" : "ad4e7d1e21620ac1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607500783059,
+          "stop" : 1607500784093,
+          "duration" : 1034
+        }
+      }, {
+        "uid" : "525916c1a79f2550",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607498469018,
+          "stop" : 1607498470036,
+          "duration" : 1018
+        }
+      }, {
+        "uid" : "cd20e3864392cc08",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=85.0.4183.121)\n  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.18363 x86_64)",
+        "time" : {
+          "start" : 1607498392401,
+          "stop" : 1607498392404,
+          "duration" : 3
+        }
+      }, {
+        "uid" : "a81504a1e046d3dd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607496267632,
+          "stop" : 1607496268743,
+          "duration" : 1111
+        }
+      }, {
+        "uid" : "219301b30b3d2627",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607494612379,
+          "stop" : 1607494613398,
+          "duration" : 1019
+        }
+      }, {
+        "uid" : "55de424937805ab3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607493886261,
+          "stop" : 1607493887253,
+          "duration" : 992
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "5446f1c4b3281349.json",
+  "parameterValues" : [ ]
+}

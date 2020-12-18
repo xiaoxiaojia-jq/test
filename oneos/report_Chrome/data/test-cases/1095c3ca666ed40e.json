@@ -1,0 +1,208 @@
+{
+  "uid" : "1095c3ca666ed40e",
+  "name" : "检查产品功能菜单",
+  "fullName" : "testcase.case.test_home.Testhome_navigation#test_product_menu",
+  "historyId" : "741463445ec6307ee781e8f311e5bcd2",
+  "time" : {
+    "start" : 1608279702987,
+    "stop" : 1608279703774,
+    "duration" : 787
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1608279698419,
+      "stop" : 1608279698419,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "检查远程升级组件文本",
+      "time" : {
+        "start" : 1608279703025,
+        "stop" : 1608279703774,
+        "duration" : 749
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e035673a53a59411",
+        "name" : "产品功能菜单",
+        "source" : "e035673a53a59411.png",
+        "type" : "image/png",
+        "size" : 992135
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1608279769273,
+      "stop" : 1608279769273,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "首页"
+  }, {
+    "name" : "story",
+    "value" : "导航栏"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase.case"
+  }, {
+    "name" : "suite",
+    "value" : "test_home"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testhome_navigation"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-KS4SLMU"
+  }, {
+    "name" : "thread",
+    "value" : "2340-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.case.test_home"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "name_menu",
+    "value" : "'远程升级组件'"
+  }, {
+    "name" : "result_menu",
+    "value" : "'远程升级组件'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 8,
+        "unknown" : 0,
+        "total" : 9
+      },
+      "items" : [ {
+        "uid" : "40caede907d6861f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608277350328,
+          "stop" : 1608277351160,
+          "duration" : 832
+        }
+      }, {
+        "uid" : "71f6af7486e8795c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607588799423,
+          "stop" : 1607588800164,
+          "duration" : 741
+        }
+      }, {
+        "uid" : "6aa94b845fbbf27",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607500787741,
+          "stop" : 1607500788625,
+          "duration" : 884
+        }
+      }, {
+        "uid" : "e55bdf5e518ef9a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607498473683,
+          "stop" : 1607498474491,
+          "duration" : 808
+        }
+      }, {
+        "uid" : "ef608739cf26f311",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=85.0.4183.121)\n  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.18363 x86_64)",
+        "time" : {
+          "start" : 1607498392685,
+          "stop" : 1607498392686,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "d0c906f1db8858c0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607496272101,
+          "stop" : 1607496273156,
+          "duration" : 1055
+        }
+      }, {
+        "uid" : "de5bfa6205dfb08b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607494616896,
+          "stop" : 1607494617707,
+          "duration" : 811
+        }
+      }, {
+        "uid" : "9b5836e89220fd1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607493890794,
+          "stop" : 1607493891607,
+          "duration" : 813
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "1095c3ca666ed40e.json",
+  "parameterValues" : [ "'远程升级组件'", "'远程升级组件'" ]
+}

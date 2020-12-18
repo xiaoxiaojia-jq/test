@@ -7,13 +7,13 @@
       "name" : "test_consumer",
       "children" : [ {
         "name" : "test_consumer_jump",
-        "uid" : "125b581c51b952e2",
+        "uid" : "7073c93d5257f1af",
         "parentUid" : "cfa2467d9f82ac57fecfb95890cd0901",
         "status" : "passed",
         "time" : {
-          "start" : 1607500775005,
-          "stop" : 1607500777666,
-          "duration" : 2661
+          "start" : 1608279690216,
+          "stop" : 1608279692860,
+          "duration" : 2644
         },
         "flaky" : false,
         "newFailed" : false,
@@ -24,26 +24,26 @@
       "name" : "test_developer",
       "children" : [ {
         "name" : "检查oneos下载页面",
-        "uid" : "e3e714187009bae",
+        "uid" : "642b43fde36b29ab",
         "parentUid" : "cc5906b18904cee933fe88ce8ae2a5fd",
         "status" : "passed",
         "time" : {
-          "start" : 1607500777677,
-          "stop" : 1607500780356,
-          "duration" : 2679
+          "start" : 1608279692867,
+          "stop" : 1608279695741,
+          "duration" : 2874
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "检查开发文档页面",
-        "uid" : "f10f9360fa200f4d",
+        "uid" : "ed810e42a89e0399",
         "parentUid" : "cc5906b18904cee933fe88ce8ae2a5fd",
         "status" : "passed",
         "time" : {
-          "start" : 1607500780362,
-          "stop" : 1607500783048,
-          "duration" : 2686
+          "start" : 1608279695746,
+          "stop" : 1608279698408,
+          "duration" : 2662
         },
         "flaky" : false,
         "newFailed" : false,
@@ -54,520 +54,520 @@
       "name" : "test_home",
       "children" : [ {
         "name" : "检查导航栏产品功能",
-        "uid" : "ad4e7d1e21620ac1",
+        "uid" : "5446f1c4b3281349",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500783059,
-          "stop" : 1607500784093,
-          "duration" : 1034
+          "start" : 1608279698420,
+          "stop" : 1608279699391,
+          "duration" : 971
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "检查产品功能菜单",
-        "uid" : "18010d2a544d29ba",
+        "uid" : "d90f3c9c5df36d15",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500784096,
-          "stop" : 1607500785033,
-          "duration" : 937
+          "start" : 1608279699394,
+          "stop" : 1608279700361,
+          "duration" : 967
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'互联互通'", "'互联互通'" ]
       }, {
         "name" : "检查产品功能菜单",
-        "uid" : "6ae82b4047ecff7e",
+        "uid" : "a3ce832d25f73b7a",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500785038,
-          "stop" : 1607500786003,
-          "duration" : 965
+          "start" : 1608279700365,
+          "stop" : 1608279701300,
+          "duration" : 935
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'端云融合'", "'端云融合'" ]
       }, {
         "name" : "检查产品功能菜单",
-        "uid" : "bfcbafe6d2c23fa7",
+        "uid" : "ad9ccc002dbeec31",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500786008,
-          "stop" : 1607500786881,
-          "duration" : 873
+          "start" : 1608279701305,
+          "stop" : 1608279702144,
+          "duration" : 839
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'室内外定位'", "'室内外定位'" ]
       }, {
         "name" : "检查产品功能菜单",
-        "uid" : "8a6f3e2ae46b5e4d",
+        "uid" : "19a48a5f6a909bab",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500786885,
-          "stop" : 1607500787737,
-          "duration" : 852
+          "start" : 1608279702149,
+          "stop" : 1608279702982,
+          "duration" : 833
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'高级语言'", "'高级语言'" ]
       }, {
         "name" : "检查产品功能菜单",
-        "uid" : "6aa94b845fbbf27",
+        "uid" : "1095c3ca666ed40e",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500787741,
-          "stop" : 1607500788625,
-          "duration" : 884
+          "start" : 1608279702987,
+          "stop" : 1608279703774,
+          "duration" : 787
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'远程升级组件'", "'远程升级组件'" ]
       }, {
         "name" : "检查产品功能菜单",
-        "uid" : "7812ebf3af163c86",
+        "uid" : "e5cdc3c41059800",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500788631,
-          "stop" : 1607500789465,
-          "duration" : 834
+          "start" : 1608279703780,
+          "stop" : 1608279704586,
+          "duration" : 806
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'低功耗控制组件'", "'低功耗控制组件'" ]
       }, {
         "name" : "检查产品功能菜单详情",
-        "uid" : "3acc4f7d531355bc",
+        "uid" : "324512b8745307fd",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500789471,
-          "stop" : 1607500791217,
-          "duration" : 1746
+          "start" : 1608279704591,
+          "stop" : 1608279706328,
+          "duration" : 1737
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'互联互通'", "'产品介绍'" ]
       }, {
         "name" : "检查产品功能菜单详情",
-        "uid" : "f3c89c946210b23c",
+        "uid" : "f33aebea3b9e3a05",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500791228,
-          "stop" : 1607500792945,
-          "duration" : 1717
+          "start" : 1608279706335,
+          "stop" : 1608279708073,
+          "duration" : 1738
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'端云融合'", "'产品介绍'" ]
       }, {
         "name" : "检查产品功能菜单详情",
-        "uid" : "1bd9b86fb9000b28",
+        "uid" : "a9b73712db27b448",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500792950,
-          "stop" : 1607500794639,
-          "duration" : 1689
+          "start" : 1608279708078,
+          "stop" : 1608279709762,
+          "duration" : 1684
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'室内外定位'", "'产品介绍'" ]
       }, {
         "name" : "检查产品功能菜单详情",
-        "uid" : "99106e187d6d30b1",
+        "uid" : "b37e7c65ab97c440",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500794644,
-          "stop" : 1607500796408,
-          "duration" : 1764
+          "start" : 1608279709767,
+          "stop" : 1608279711513,
+          "duration" : 1746
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'高级语言'", "'产品介绍'" ]
       }, {
         "name" : "检查产品功能菜单详情",
-        "uid" : "b80c790efb18d864",
+        "uid" : "58f589484b5372e9",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500796418,
-          "stop" : 1607500798138,
-          "duration" : 1720
+          "start" : 1608279711518,
+          "stop" : 1608279713167,
+          "duration" : 1649
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'远程升级组件'", "'产品介绍'" ]
       }, {
         "name" : "检查产品功能菜单详情",
-        "uid" : "51e23e88a282ce70",
+        "uid" : "3eedad2ae1070b24",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500798151,
-          "stop" : 1607500799934,
-          "duration" : 1783
+          "start" : 1608279713172,
+          "stop" : 1608279714857,
+          "duration" : 1685
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'低功耗控制组件'", "'产品介绍'" ]
       }, {
         "name" : "检查产品功能跳转",
-        "uid" : "6e81bfc5578559a5",
+        "uid" : "d66947857c6fc5ad",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500799939,
-          "stop" : 1607500804782,
-          "duration" : 4843
+          "start" : 1608279714862,
+          "stop" : 1608279719737,
+          "duration" : 4875
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'端云融合'", "'产品介绍'", "'//*[@id=\"__layout\"]/div/div[2]/div[3]/div[2]/div[1]/span'" ]
       }, {
         "name" : "检查产品功能跳转",
-        "uid" : "99dbbca1fe4b2462",
+        "uid" : "325a00addfa8675b",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500804791,
-          "stop" : 1607500809985,
-          "duration" : 5194
+          "start" : 1608279719743,
+          "stop" : 1608279724538,
+          "duration" : 4795
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'互联互通'", "'产品介绍'", "'//*[@id=\"__layout\"]/div/div[2]/div[3]/div[2]/div[2]/span'" ]
       }, {
         "name" : "检查产品功能跳转",
-        "uid" : "b5d78e988423a8a0",
+        "uid" : "424dd2ce9e6bd038",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500809994,
-          "stop" : 1607500815091,
-          "duration" : 5097
+          "start" : 1608279724544,
+          "stop" : 1608279729353,
+          "duration" : 4809
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'室内外定位'", "'产品介绍'", "'//*[@id=\"__layout\"]/div/div[2]/div[3]/div[2]/div[3]/span'" ]
       }, {
         "name" : "检查导航栏解决方案",
-        "uid" : "dc60d7d656695ed3",
+        "uid" : "68b4b4781f377041",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500815098,
-          "stop" : 1607500815676,
-          "duration" : 578
+          "start" : 1608279729358,
+          "stop" : 1608279729886,
+          "duration" : 528
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "检查解决方案菜单",
-        "uid" : "7ff1e251f2a6d728",
+        "uid" : "cfd1cef8dd400b31",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500815679,
-          "stop" : 1607500816228,
-          "duration" : 549
+          "start" : 1608279729889,
+          "stop" : 1608279730415,
+          "duration" : 526
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'智能穿戴'", "'智能穿戴'" ]
       }, {
         "name" : "检查解决方案菜单",
-        "uid" : "f162ee5838764c74",
+        "uid" : "e915d715333a93ee",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500816233,
-          "stop" : 1607500816779,
-          "duration" : 546
+          "start" : 1608279730420,
+          "stop" : 1608279730931,
+          "duration" : 511
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'智能门锁'", "'智能门锁'" ]
       }, {
         "name" : "检查解决方案菜单",
-        "uid" : "ec81371fe9126852",
+        "uid" : "cc1d26b85ce64106",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500816784,
-          "stop" : 1607500817305,
-          "duration" : 521
+          "start" : 1608279730935,
+          "stop" : 1608279731448,
+          "duration" : 513
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'智慧表计'", "'智慧表计'" ]
       }, {
         "name" : "检查解决方案菜单",
-        "uid" : "c2cd8c2515e8a369",
+        "uid" : "b7bb76c299a7652c",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500817310,
-          "stop" : 1607500817864,
-          "duration" : 554
+          "start" : 1608279731452,
+          "stop" : 1608279731980,
+          "duration" : 528
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'智慧充电'", "'智慧充电'" ]
       }, {
         "name" : "检查解决方案菜单",
-        "uid" : "9874114897ddfba5",
+        "uid" : "ed212332cb55f3db",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500817870,
-          "stop" : 1607500818393,
-          "duration" : 523
+          "start" : 1608279731985,
+          "stop" : 1608279732498,
+          "duration" : 513
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'环境监测'", "'环境监测'" ]
       }, {
         "name" : "检查解决方案菜单详情",
-        "uid" : "a4efdb1528fb2d47",
+        "uid" : "6ed9ca80bc094578",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500818398,
-          "stop" : 1607500820184,
-          "duration" : 1786
+          "start" : 1608279732503,
+          "stop" : 1608279734192,
+          "duration" : 1689
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'智能穿戴'", "'方案诉求'" ]
       }, {
         "name" : "检查解决方案菜单详情",
-        "uid" : "d3bcf6410f91d0d9",
+        "uid" : "dd48ea44950a3681",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500820189,
-          "stop" : 1607500821971,
-          "duration" : 1782
+          "start" : 1608279734203,
+          "stop" : 1608279735940,
+          "duration" : 1737
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'智能门锁'", "'方案诉求'" ]
       }, {
         "name" : "检查解决方案菜单详情",
-        "uid" : "57fab818d63e92db",
+        "uid" : "8ad5cf1828bcb6eb",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500821976,
-          "stop" : 1607500823691,
-          "duration" : 1715
+          "start" : 1608279735958,
+          "stop" : 1608279737662,
+          "duration" : 1704
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'智慧表计'", "'方案诉求'" ]
       }, {
         "name" : "检查解决方案菜单详情",
-        "uid" : "3a7a811dcd14e5ca",
+        "uid" : "7df0784a038e94d5",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500823696,
-          "stop" : 1607500825418,
-          "duration" : 1722
+          "start" : 1608279737668,
+          "stop" : 1608279739330,
+          "duration" : 1662
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'智慧充电'", "'方案诉求'" ]
       }, {
         "name" : "检查解决方案菜单详情",
-        "uid" : "b134ed48e4eae9c4",
+        "uid" : "4ac183aa03cf5af3",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500825423,
-          "stop" : 1607500827205,
-          "duration" : 1782
+          "start" : 1608279739340,
+          "stop" : 1608279741007,
+          "duration" : 1667
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'环境监测'", "'方案诉求'" ]
       }, {
         "name" : "test_solve_jump[//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[1]-方案诉求]",
-        "uid" : "2b3266489c9c8ccf",
+        "uid" : "26d39bf47b8a4e02",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500827212,
-          "stop" : 1607500831567,
-          "duration" : 4355
+          "start" : 1608279741018,
+          "stop" : 1608279745346,
+          "duration" : 4328
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'方案诉求'", "'//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[1]'" ]
       }, {
         "name" : "test_solve_jump[//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[2]-方案诉求]",
-        "uid" : "7833d2224e5eb5be",
+        "uid" : "3c378b0976cbccc7",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500831573,
-          "stop" : 1607500835943,
-          "duration" : 4370
+          "start" : 1608279745361,
+          "stop" : 1608279749664,
+          "duration" : 4303
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'方案诉求'", "'//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[2]'" ]
       }, {
         "name" : "test_solve_jump[//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[3]-方案诉求]",
-        "uid" : "3428ff4e73b03ab4",
+        "uid" : "7297ee52a5803366",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500835953,
-          "stop" : 1607500840430,
-          "duration" : 4477
+          "start" : 1608279749675,
+          "stop" : 1608279754102,
+          "duration" : 4427
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'方案诉求'", "'//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[3]'" ]
       }, {
         "name" : "test_solve_jump[//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[4]-方案诉求]",
-        "uid" : "fa0ea261a16b70b2",
+        "uid" : "39ee6a457d6d1a6b",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500840441,
-          "stop" : 1607500844426,
-          "duration" : 3985
+          "start" : 1608279754117,
+          "stop" : 1608279758073,
+          "duration" : 3956
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'方案诉求'", "'//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[4]'" ]
       }, {
         "name" : "test_solve_jump[//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[5]-方案诉求]",
-        "uid" : "43790a93aa9c53f8",
+        "uid" : "2e1ca690bbb3d082",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500844431,
-          "stop" : 1607500848662,
-          "duration" : 4231
+          "start" : 1608279758079,
+          "stop" : 1608279762386,
+          "duration" : 4307
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'方案诉求'", "'//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[5]'" ]
       }, {
         "name" : "test_big_title[//*[@id=\"__layout\"]/div/div[2]/div[2]/div[1]-轻松安全可靠接入各类物联网设备平台]",
-        "uid" : "13ff942986c4b550",
+        "uid" : "a7eb961ce23b2591",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500848673,
-          "stop" : 1607500849867,
-          "duration" : 1194
+          "start" : 1608279762391,
+          "stop" : 1608279763595,
+          "duration" : 1204
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'轻松安全可靠接入各类物联网设备平台'", "'//*[@id=\"__layout\"]/div/div[2]/div[2]/div[1]'" ]
       }, {
         "name" : "test_big_title[//*[@id=\"__layout\"]/div/div[2]/div[3]/div[1]-丰富能力满足应用级开发需求]",
-        "uid" : "b6520a9e6453aa23",
+        "uid" : "6c876298044e2c6d",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500849875,
-          "stop" : 1607500850759,
-          "duration" : 884
+          "start" : 1608279763599,
+          "stop" : 1608279764481,
+          "duration" : 882
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'丰富能力满足应用级开发需求'", "'//*[@id=\"__layout\"]/div/div[2]/div[3]/div[1]'" ]
       }, {
         "name" : "test_big_title[//*[@id=\"__layout\"]/div/div[2]/div[4]/div[1]-这里有你想要的操作系统解决方案]",
-        "uid" : "a074305b1f2c26dd",
+        "uid" : "3f0ccaae49743148",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "failed",
         "time" : {
-          "start" : 1607500850763,
-          "stop" : 1607500851313,
-          "duration" : 550
+          "start" : 1608279764485,
+          "stop" : 1608279765053,
+          "duration" : 568
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'这里有你想要的操作系统解决方案'", "'//*[@id=\"__layout\"]/div/div[2]/div[4]/div[1]'" ]
       }, {
         "name" : "test_big_title[//*[@id=\"__layout\"]/div/div[2]/div[5]/div[1]-共同打造开放共赢的物联网生态]",
-        "uid" : "133c4068a17cfa4b",
+        "uid" : "2d02ce79e02443ef",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500851391,
-          "stop" : 1607500853045,
-          "duration" : 1654
+          "start" : 1608279765169,
+          "stop" : 1608279766763,
+          "duration" : 1594
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'共同打造开放共赢的物联网生态'", "'//*[@id=\"__layout\"]/div/div[2]/div[5]/div[1]'" ]
       }, {
         "name" : "test_bottom_information[开发者交流QQ群-//*[@id=\"__layout\"]/div/div[3]/div/div[1]/div[3]/div[2]/div[1]-158631242]",
-        "uid" : "2d0d102f9cca6e66",
+        "uid" : "b0d76e43fd5e8d47",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500853050,
-          "stop" : 1607500853738,
-          "duration" : 688
+          "start" : 1608279766768,
+          "stop" : 1608279767431,
+          "duration" : 663
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'开发者交流QQ群'", "'158631242'", "'//*[@id=\"__layout\"]/div/div[3]/div/div[1]/div[3]/div[2]/div[1]'" ]
       }, {
         "name" : "test_bottom_information[电话-//*[@id=\"__layout\"]/div/div[3]/div/div[1]/div[3]/div[2]/div[2]-400-1100-866]",
-        "uid" : "1e71b14f3bee0e4f",
+        "uid" : "e02c3c9fe352ea8e",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500853744,
-          "stop" : 1607500854380,
-          "duration" : 636
+          "start" : 1608279767437,
+          "stop" : 1608279768057,
+          "duration" : 620
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'电话'", "'400-1100-866'", "'//*[@id=\"__layout\"]/div/div[3]/div/div[1]/div[3]/div[2]/div[2]'" ]
       }, {
         "name" : "test_bottom_information[邮箱-//*[@id=\"__layout\"]/div/div[3]/div/div[1]/div[3]/div[2]/div[3]-cmcc_oneos@cmiot.chinamobile.com.cn]",
-        "uid" : "992aa8a9b26b53a2",
+        "uid" : "44e6a6e00cd7f0c7",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500854389,
-          "stop" : 1607500854971,
-          "duration" : 582
+          "start" : 1608279768063,
+          "stop" : 1608279768706,
+          "duration" : 643
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'邮箱'", "'cmcc_oneos@cmiot.chinamobile.com.cn'", "'//*[@id=\"__layout\"]/div/div[3]/div/div[1]/div[3]/div[2]/div[3]'" ]
       }, {
         "name" : "test_bottom_information[地址-//*[@id=\"__layout\"]/div/div[3]/div/div[1]/div[3]/div[2]/div[4]-四川省成都市天府三街腾讯大厦B幢7楼]",
-        "uid" : "8e9cb853f9e339e7",
+        "uid" : "3798e3b9e679820b",
         "parentUid" : "184c3bcc46c019a58e8aa1d8e60c26f1",
         "status" : "passed",
         "time" : {
-          "start" : 1607500854977,
-          "stop" : 1607500855516,
-          "duration" : 539
+          "start" : 1608279768712,
+          "stop" : 1608279769270,
+          "duration" : 558
         },
         "flaky" : false,
         "newFailed" : false,
@@ -578,13 +578,13 @@
       "name" : "test_know",
       "children" : [ {
         "name" : "test_consumer_jump",
-        "uid" : "541d256f80edab55",
+        "uid" : "1b336deb6ea67070",
         "parentUid" : "4058bf826010474cc21a0a329164a110",
         "status" : "passed",
         "time" : {
-          "start" : 1607500855522,
-          "stop" : 1607500857479,
-          "duration" : 1957
+          "start" : 1608279769277,
+          "stop" : 1608279771313,
+          "duration" : 2036
         },
         "flaky" : false,
         "newFailed" : false,
@@ -595,26 +595,26 @@
       "name" : "test_news",
       "children" : [ {
         "name" : "test_new_list",
-        "uid" : "b9ac6a494f68404e",
+        "uid" : "fb9d2afdd6f23f8b",
         "parentUid" : "9cf8aade979a8632d6f5d8ef21ea32b3",
         "status" : "passed",
         "time" : {
-          "start" : 1607500857483,
-          "stop" : 1607500858150,
-          "duration" : 667
+          "start" : 1608279771317,
+          "stop" : 1608279771906,
+          "duration" : 589
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "test_new_detials",
-        "uid" : "6ffad4c0d2c79dd5",
+        "uid" : "fb4eba0496a35915",
         "parentUid" : "9cf8aade979a8632d6f5d8ef21ea32b3",
         "status" : "passed",
         "time" : {
-          "start" : 1607500858154,
-          "stop" : 1607500858995,
-          "duration" : 841
+          "start" : 1608279771909,
+          "stop" : 1608279772461,
+          "duration" : 552
         },
         "flaky" : false,
         "newFailed" : false,
@@ -625,13 +625,13 @@
       "name" : "test_ota",
       "children" : [ {
         "name" : "test_ota",
-        "uid" : "3b061449c68d1d1a",
+        "uid" : "6784fa6bdeb39dc4",
         "parentUid" : "180ca3d2048bdf1390d2c580cc2e91d6",
         "status" : "passed",
         "time" : {
-          "start" : 1607500858999,
-          "stop" : 1607500861676,
-          "duration" : 2677
+          "start" : 1608279772467,
+          "stop" : 1608279775046,
+          "duration" : 2579
         },
         "flaky" : false,
         "newFailed" : false,

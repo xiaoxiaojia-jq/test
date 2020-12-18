@@ -7,5 +7,8 @@ class Know_oneos:
         self.know = Util(web)
     def know_jump(self):
         self.know.click(By.LINK_TEXT, '关于OneOS')
-        know_text = self.know.get_text(By.XPATH, '//*[@id="__layout"]/div/div[2]/div[3]/div[1]/div[2]')
-        return know_text
+        try:
+            know_text = self.know.get_text(By.XPATH, '//*[@id="__layout"]/div/div[2]/div[3]/div[1]/div[2]')
+            return know_text
+        except:
+            return "参数未找到"

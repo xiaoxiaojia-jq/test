@@ -1,0 +1,164 @@
+{
+  "uid" : "3c378b0976cbccc7",
+  "name" : "test_solve_jump[//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[2]-方案诉求]",
+  "fullName" : "testcase.case.test_home.Testhome_navigation#test_solve_jump[//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li",
+  "historyId" : "2257a1c8bb41b26e74bc706fa9e421e0",
+  "time" : {
+    "start" : 1608279745361,
+    "stop" : 1608279749664,
+    "duration" : 4303
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c37cc73ef8eef69d",
+      "name" : "解决方案详情页面",
+      "source" : "c37cc73ef8eef69d.png",
+      "type" : "image/png",
+      "size" : 1028552
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "检查解决方案跳转"
+  }, {
+    "name" : "feature",
+    "value" : "首页"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase.case"
+  }, {
+    "name" : "suite",
+    "value" : "test_home"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testhome_navigation"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-KS4SLMU"
+  }, {
+    "name" : "thread",
+    "value" : "2340-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.case.test_home"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "result_jump",
+    "value" : "'方案诉求'"
+  }, {
+    "name" : "xpath",
+    "value" : "'//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[2]'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 2,
+        "skipped" : 0,
+        "passed" : 7,
+        "unknown" : 0,
+        "total" : 9
+      },
+      "items" : [ {
+        "uid" : "f21b2866c73c236",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608277394367,
+          "stop" : 1608277398639,
+          "duration" : 4272
+        }
+      }, {
+        "uid" : "1e845bee72c9432",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[2]\"}\n  (Session info: chrome=85.0.4183.121)\n  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.18363 x86_64)",
+        "time" : {
+          "start" : 1607588881695,
+          "stop" : 1607588894769,
+          "duration" : 13074
+        }
+      }, {
+        "uid" : "7833d2224e5eb5be",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607500831573,
+          "stop" : 1607500835943,
+          "duration" : 4370
+        }
+      }, {
+        "uid" : "476857a484584d69",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607498517001,
+          "stop" : 1607498521377,
+          "duration" : 4376
+        }
+      }, {
+        "uid" : "4c468fbeb3e2a8d",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=85.0.4183.121)\n  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.18363 x86_64)",
+        "time" : {
+          "start" : 1607498401054,
+          "stop" : 1607498402056,
+          "duration" : 1002
+        }
+      }, {
+        "uid" : "568e78b076e4b12b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607496315499,
+          "stop" : 1607496319757,
+          "duration" : 4258
+        }
+      }, {
+        "uid" : "33b8724ff7f2aa5b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607494660703,
+          "stop" : 1607494665112,
+          "duration" : 4409
+        }
+      }, {
+        "uid" : "6c2dab37857377cd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607493934645,
+          "stop" : 1607493939088,
+          "duration" : 4443
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "3c378b0976cbccc7.json",
+  "parameterValues" : [ "'方案诉求'", "'//*[@id=\"__layout\"]/div/div[2]/div[4]/div[2]/div[1]/div[2]/ul/li[2]'" ]
+}

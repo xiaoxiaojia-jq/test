@@ -1,0 +1,199 @@
+{
+  "uid" : "7073c93d5257f1af",
+  "name" : "test_consumer_jump",
+  "fullName" : "testcase.case.test_consumer.Test_consumer#test_consumer_jump",
+  "historyId" : "5158496d6be8962e65dde75b8a2ed1b6",
+  "time" : {
+    "start" : 1608279690216,
+    "stop" : 1608279692860,
+    "duration" : 2644
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1608279675236,
+      "stop" : 1608279690215,
+      "duration" : 14979
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "检查跳转后的信息",
+      "time" : {
+        "start" : 1608279690216,
+        "stop" : 1608279692860,
+        "duration" : 2644
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "97dd4deff0ad1658",
+        "name" : "社区论坛页面",
+        "source" : "97dd4deff0ad1658.png",
+        "type" : "image/png",
+        "size" : 58650
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1608279692861,
+      "stop" : 1608279692861,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "检查社区论坛跳转"
+  }, {
+    "name" : "story",
+    "value" : "检查社区论坛页面跳转"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase.case"
+  }, {
+    "name" : "suite",
+    "value" : "test_consumer"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_consumer"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-KS4SLMU"
+  }, {
+    "name" : "thread",
+    "value" : "2340-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.case.test_consumer"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 8,
+        "unknown" : 0,
+        "total" : 9
+      },
+      "items" : [ {
+        "uid" : "d411d1120ed52d6e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608277337282,
+          "stop" : 1608277339996,
+          "duration" : 2714
+        }
+      }, {
+        "uid" : "e8414af4df3bdc8d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607588787287,
+          "stop" : 1607588789918,
+          "duration" : 2631
+        }
+      }, {
+        "uid" : "125b581c51b952e2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607500775005,
+          "stop" : 1607500777666,
+          "duration" : 2661
+        }
+      }, {
+        "uid" : "7407da6ddee0aef7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607498461034,
+          "stop" : 1607498463645,
+          "duration" : 2611
+        }
+      }, {
+        "uid" : "90502cb2e822baf0",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"__layout\"]/div/div[2]/div/div[1]/div/div[1]/div/div[2]/div[1]/div[1]/ul/li[1]\"}\n  (Session info: chrome=85.0.4183.121)\n  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.18363 x86_64)",
+        "time" : {
+          "start" : 1607498361663,
+          "stop" : 1607498383949,
+          "duration" : 22286
+        }
+      }, {
+        "uid" : "a9a8d7c2a63a6df",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607496259545,
+          "stop" : 1607496262147,
+          "duration" : 2602
+        }
+      }, {
+        "uid" : "b0c7f9e32b0300fe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607494604244,
+          "stop" : 1607494606975,
+          "duration" : 2731
+        }
+      }, {
+        "uid" : "91a5dbddebe8484e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607493878306,
+          "stop" : 1607493880896,
+          "duration" : 2590
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "7073c93d5257f1af.json",
+  "parameterValues" : [ ]
+}

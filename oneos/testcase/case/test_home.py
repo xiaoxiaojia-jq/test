@@ -52,11 +52,10 @@ class Testhome_navigation:
     @pytest.mark.parametrize("name,xpath,result", data["test_home_product_jump"])
     def test_product_jump(self,name,xpath,result):
         with allure.step("检查"+name+"跳转详情页面"):
-            product_text,window_1=self.home_page.check_product_jump(xpath)
+            product_text=self.home_page.check_product_jump(xpath)
             assert product_text == result
             Util(web).save_screenshot(web,name+"页面跳转")
-            Util.dr.close()
-            Util.dr.switch_to.window(window_1)
+
 
     @allure.story("导航栏")
     @allure.title("检查导航栏解决方案")
